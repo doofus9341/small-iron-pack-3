@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+
+[[files]]
 file = "README.md"
 hash = "d86f7d84401f845f92e6e71f90eb5016a30a391576b134139ef6b948e4b0d273"
 
@@ -3279,6 +3283,11 @@ metafile = true
 [[files]]
 file = "mods/compact-machines.pw.toml"
 hash = "63b6656ff4797d43bcca276bdb944152ffc267d8d1144ce16ab0e86b933bcfd0"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "d362a013bef0c4e8ade6bf77e97478833902210cc70ad7d133aece3f1c3e37a6"
 metafile = true
 
 [[files]]
