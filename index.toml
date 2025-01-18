@@ -6,7 +6,7 @@ hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
 
 [[files]]
 file = "README.md"
-hash = "d86f7d84401f845f92e6e71f90eb5016a30a391576b134139ef6b948e4b0d273"
+hash = "9901f673bf7a0fb670ac15535a87c0ca6577018ccdd8544bf0bbe82f46b1a97f"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -946,7 +946,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "cc318383ce4cd12f8995ae466d4559b897176040578c80066eb82237913e4bbd"
+hash = "1c18d94162fec9ca0d0e0fa686fa44e6cdebf3c6f913957b9b92cabeba5c6d5e"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -1626,11 +1626,11 @@ hash = "f9f68a1557cdfab8394d2f4b54a2756d96451dcdddea4f5e04cb912b516ffa05"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "26b2b4f7c090eec74127c58ab5f837102014142879b178584ab830f7d2241697"
+hash = "9df63938f150734162cbc6b1ebbd61f41bb1f6b23cabf2f7a6e35455eb7dd91a"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "55eedb3a2b1cd301d73a294f884ef9dfefd8ae741e7e781806a49ce724f11df2"
+hash = "a59cf0055a7f0f2b8ff56d9dc798f53c108ca617ec73efb95ef0e3d390e7d1cd"
 
 [[files]]
 file = "config/jamd/end.json"
@@ -2307,6 +2307,10 @@ hash = "8c90493c8eab1e619edb659c848d533d5225ead05683c5560e098c0a715bb9da"
 [[files]]
 file = "config/jaopca/materials/wood.toml"
 hash = "3ab5f4288cbee92a8fac3e5651aed71d8da7ab984a0c4f7f861e3425dbd65cfd"
+
+[[files]]
+file = "config/jaopca/materials/xychorium.toml"
+hash = "61afd4bf6d0d8fe98b342c48e6d3064accbef0cb95c0747f650c6a6214a6701c"
 
 [[files]]
 file = "config/jaopca/materials/yellorium.toml"
@@ -3007,6 +3011,18 @@ hash = "26e112246e902d93bc7c6ae6c169cd810f2e61dd825918ecb86186e40629667e"
 [[files]]
 file = "config/xnetgases.toml"
 hash = "39b423a5786f48f0f479cac4004734fc2eae55a9607b5e931a6f9f4373b5e945"
+
+[[files]]
+file = "config/xycraft/core-client.toml"
+hash = "d8b016e5f6523e96f3d6ff23c9fed1c14ad4f372f9cb9088b287ea885c8d6150"
+
+[[files]]
+file = "config/xycraft/core-server.toml"
+hash = "6524e4e63cc3a47b506f261d3af43f57e5951c0860d356e004d7fe27a8b2673f"
+
+[[files]]
+file = "config/xycraft/machines-server.toml"
+hash = "6f481d2040804361f720e549b03e539ed2e7989718cfcb010b2258719f5e9403"
 
 [[files]]
 file = "config/yacl.json5"
@@ -4286,6 +4302,21 @@ metafile = true
 [[files]]
 file = "mods/xnet.pw.toml"
 hash = "9543eff6bd9bd556862db20e7ad6de48faf18952035cab76d782809991b93a42"
+metafile = true
+
+[[files]]
+file = "mods/xycraft-machines.pw.toml"
+hash = "1bc1f3800e948ae1ac96b3cbefd3cf6c595bb3e29e63cdb488f366314cc083d7"
+metafile = true
+
+[[files]]
+file = "mods/xycraft-world.pw.toml"
+hash = "2f491f2e17e5b9e5c867ab9781ba2bf08594adb3a594c9f696a5579719a6448b"
+metafile = true
+
+[[files]]
+file = "mods/xycraft.pw.toml"
+hash = "4445ec0bd308c8fb85c5769b6a2b427d6fab3b94a19c0d5a28483aba301f9536"
 metafile = true
 
 [[files]]

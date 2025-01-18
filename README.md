@@ -1,6 +1,4 @@
 # Small Iron Pack 3
-**Version**: 1.0.0
-
 **Minecraft Version**: 1.21.1
 
 **NeoForge Version**: 21.1.95

@@ -166,6 +166,10 @@
     "canvas_beehive": true,
     "bee_attributes": true
   },
+  "xycraft": {
+    "tank_component": true,
+    "extractor_component": true
+  },
   "ars_nouveau": {
     "mob_jar": true
   },
