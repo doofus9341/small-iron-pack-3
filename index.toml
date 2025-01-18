@@ -946,7 +946,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "1c18d94162fec9ca0d0e0fa686fa44e6cdebf3c6f913957b9b92cabeba5c6d5e"
+hash = "09e14331145048dda8a70b4360f9b451002c549ce5acca64de8dcd20eabc91c1"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -3438,7 +3438,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-attack-indicator.pw.toml"
-hash = "0836c337a06c65c97be50179eee86acb1435299cb44a080bfce6175fbd525aeb"
+hash = "2ad660725eef6f374ea15cd4fad01cf0b17549f57dffd5cbb3f242c9b249cbff"
 metafile = true
 
 [[files]]
@@ -4353,7 +4353,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-menu-tweaks-neoforge.pw.toml"
-hash = "e20413779ac25c659ead03e3d3f4d6164ee1f02af50ff9fda4a4e55fddb91a26"
+hash = "9fe704e46a147065158d08a163bebbe61509080d18843fa920eabda7c26fd723"
 metafile = true
 
 [[files]]
