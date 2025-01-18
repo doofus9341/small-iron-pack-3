@@ -183,7 +183,7 @@
 
 	[debug.logging]
 		#Log property calculations in the log file every time gear properties are recalculated
-		properties = true
+		properties = false
 
 [other]
 	#Shows a "WIP" (work in progress) label in the tooltip of certain unfinished, but usable blocks and items
