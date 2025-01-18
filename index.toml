@@ -5,22 +5,6 @@ file = "README.md"
 hash = "d86f7d84401f845f92e6e71f90eb5016a30a391576b134139ef6b948e4b0d273"
 
 [[files]]
-file = "config/Advancedperipherals/general.toml"
-hash = "d27021a1aa4dfd8f8ceb0d8d00d275b5291c44596cc5211f133f888fada3ab57"
-
-[[files]]
-file = "config/Advancedperipherals/metaphysics.toml"
-hash = "f815a0f04a93fad5cacca28e5db7fae1d1b006a160ff44666a854cf878e48df7"
-
-[[files]]
-file = "config/Advancedperipherals/peripherals.toml"
-hash = "4e62f4358bb261ed4d5afcbe0a7a021d164a9d30ed90219109d4f46246e203ad"
-
-[[files]]
-file = "config/Advancedperipherals/world.toml"
-hash = "c75081ad02045396929430ab2800eb4ce2a5ae61f1675a132d6618ef5af8f26e"
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
@@ -3022,7 +3006,7 @@ hash = "f03258dd68fab838e12affe9c56d7a558a808f0803458b657b77acdc84fd4915"
 
 [[files]]
 file = "icon.png"
-hash = "aba93480387ce59f4f8ec4157ec0c07b3c8243088df535bc9cdd61acd8e869a2"
+hash = "d84f4087f400a8911951d43e80c18b214be1d1595f8422c4f348b5dc622dc9cf"
 
 [[files]]
 file = "local/ftblibrary-client.snbt"
