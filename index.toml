@@ -1145,10 +1145,6 @@ file = "config/ctm.toml"
 hash = "b406070e0bc87961c211c5bb62b2754ed3bdba70cdf6975ecf64aff351b8d68e"
 
 [[files]]
-file = "config/cubes_without_borders.json"
-hash = "99b15b0a069e6d9f3e5a6267e128c1bec50e8205dcf6baa7739dea79ea999ff2"
-
-[[files]]
 file = "config/cucumber-client.toml"
 hash = "f2fdac37f99ad4c9b886a9c29940fbea5c94bc46fe6ea9b0648a055daef735ba"
 
@@ -2509,10 +2505,6 @@ file = "config/mekanism_lasers-common.toml"
 hash = "da483e985c2e668da28d650065e28606ee6e5592f38a29d5655b067295380555"
 
 [[files]]
-file = "config/mekanism_unleashed-startup.toml"
-hash = "2e8ffae6be8bfdeacde1d9c1ff1eef183431d8f4975b326f740478d1a726eb8a"
-
-[[files]]
 file = "config/mekanismcovers.json"
 hash = "d6dd0e83dc8903b9fad926cc47f0a02b8c446d7bac54a86c95900ed5d16c0cd6"
 
@@ -3360,11 +3352,6 @@ hash = "e0b7b35b16b7bd9bd494a4e32c2b5058bb67fa4b0979e33551fe40247ea937ef"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "9441e0a305d19725ed73bfe5199263bc1617e7fffc67bd56534ef89a294535ed"
-metafile = true
-
-[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "c850bd03a63e4092b4e03c5e519897c0bfa016af46d6210677fe232602c0877b"
 metafile = true
@@ -3857,11 +3844,6 @@ metafile = true
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
 hash = "3f9d1ecfaa349aa057cf2496b5a5135336209b74ac078ac7806abd4e66da2f78"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-unleashed.pw.toml"
-hash = "6378871c5f6c5e30bb0e64bc4c54c2720a0dc43929fe6dff4e9677891cf38392"
 metafile = true
 
 [[files]]
