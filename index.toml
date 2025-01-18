@@ -89,6 +89,14 @@ file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
+file = "config/actuallyadditions-client.toml"
+hash = "dd5947fd245a9fbafd38aa3c5808ad636f2f762adc6e47e3e33ac009fc73d2df"
+
+[[files]]
+file = "config/actuallyadditions-common.toml"
+hash = "a9f5807e8e787b959ceb7417c2aab8a902d9c1e6681de6fa0c298a96355c5de3"
+
+[[files]]
 file = "config/advancements_reloaded.toml"
 hash = "d32b76a96618e793d49d3a4f85ce845412935a5a90996f37cdfa85c479602d64"
 
@@ -946,7 +954,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "09e14331145048dda8a70b4360f9b451002c549ce5acca64de8dcd20eabc91c1"
+hash = "a1b921b83e4663649744e2044bdd7adacc2758bd5f3bb6e3cb8bc0291b5fd5d6"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -1269,6 +1277,14 @@ file = "config/explorerscompass-common.toml"
 hash = "b1a5210922dd076ffb5ebab128d9c4006a3aa7efd2a5818a4a52b02bf20a982a"
 
 [[files]]
+file = "config/extended_industrialization-client.toml"
+hash = "8a1c1104af38b67865f95246d5905cd03a5462f8ba1b23c43aad7ad415e0aaaf"
+
+[[files]]
+file = "config/extended_industrialization-startup.toml"
+hash = "851701203029b634440c33b108aaed64b9091ecc4c363612062eb7faafdb57e2"
+
+[[files]]
 file = "config/extendedae-common.toml"
 hash = "0cb225f6557022292f6e53cf7b38293a0911a4b045b00391d0eefbb12c47d7ef"
 
@@ -1389,6 +1405,10 @@ file = "config/framedblocks-server.toml"
 hash = "d7758765c46e7dcceb15b7534aa42afc0e104c90a8fabcf961395d668ee16035"
 
 [[files]]
+file = "config/ftbessentials.snbt"
+hash = "a2b904b1de8309ae2b576a869db82ea41c6b0ceb6cae21a7d8257002c83280cd"
+
+[[files]]
 file = "config/geore-client.toml"
 hash = "bf9c36a26562ea742e5de6b95c7b34b7683ea05909a6d46cb0d1bfa368da4e62"
 
@@ -1489,26 +1509,6 @@ file = "config/integratedtunnels-common.toml"
 hash = "5ad9d1e520a9848c16218345a89cf755af0089384f5f2baa9f178d85034b486d"
 
 [[files]]
-file = "config/inventoryprofilesnext/HEEEEEEEEELP/villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/HELP HELP ME HEEEEEEEEELP/villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/HELPMEHELPHEEEEELP/villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/bruh/prev-villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/bruh/villager-trading-config-v2.json"
-hash = "4a2bbdab7833d9f8f6239682fab22e4fe05138e6955bb3ce5c7467e1eb4f70c5"
-
-[[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
@@ -1518,7 +1518,7 @@ hash = "8e0bb1e8772159a1a9063ec63ac2c70d361da14c64c7583c9e30b7999a848cb8"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
+hash = "5776f41e3f0d63e4e77a4367044ffd3cedcc6af7e05c59264d9711e0fea03931"
 
 [[files]]
 file = "config/invtweaksemuforipn/main-config.json"
@@ -1643,778 +1643,6 @@ hash = "417fe52c8378c8705d82eba9f11271da77bdda185a00a43bf2882f3c7ea4b995"
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jaopca/custom_forms.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jaopca/lang/en_us.json"
-hash = "83bd15b124f515a98ab4af06bd682026907d5ba41839be2cd8cd52d8558187a5"
-
-[[files]]
-file = "config/jaopca/main.toml"
-hash = "225061db58e374b3f65aef7bd0756c39f29e04e092191d9732c080c64cb6658e"
-
-[[files]]
-file = "config/jaopca/materials/adamant.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/aluminum.toml"
-hash = "a5211b71d6835b34bdb1982e60aed846bf4d10d99e276a038920eb8cce22f751"
-
-[[files]]
-file = "config/jaopca/materials/amethyst.toml"
-hash = "5455d6e1f6b9246f4bf4d5cf334ce3a74c8cc81524be625024d2ba965cddc2e4"
-
-[[files]]
-file = "config/jaopca/materials/annealed_copper.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/antimony.toml"
-hash = "b9dfa3e38615ce15a3c82ecbdb75f287c74c33318711108a79e153663553ef82"
-
-[[files]]
-file = "config/jaopca/materials/arcane_crystal.toml"
-hash = "c674c33f37dc53646a315f30a8ae04699bb3b9afb4bf0e11be55b1d53e9e964e"
-
-[[files]]
-file = "config/jaopca/materials/ash.toml"
-hash = "9a27713021064daca9b7c4f6508dd03d790df44c2b8f30b8e4f7cb6483a34bf8"
-
-[[files]]
-file = "config/jaopca/materials/awakened_supremium.toml"
-hash = "a93d65107a811b449cd02b21e8008e4935cf0a4dbeca8484cecb395efe1fb207"
-
-[[files]]
-file = "config/jaopca/materials/azure_electrum.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/azure_silver.toml"
-hash = "9e4d94859087699fb244680e53a0fefb5f0f637e0c5d6ac412d83d6f7b161aaa"
-
-[[files]]
-file = "config/jaopca/materials/battery_alloy.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/bauxite.toml"
-hash = "8d393733652651da64eed8b91543df3ec3fda8ac6638acb35bd2b13a4c832ac9"
-
-[[files]]
-file = "config/jaopca/materials/beryllium.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/biosteel.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/black_quartz.toml"
-hash = "265db0edae5bfa9c5267c28d6134965ea834e182d5107441d19601fe812f598f"
-
-[[files]]
-file = "config/jaopca/materials/blackstone.toml"
-hash = "610184184da33f05a2d5b91e9be3ab5eda90cee5391d934454490bcb34e558aa"
-
-[[files]]
-file = "config/jaopca/materials/blastproof_alloy.toml"
-hash = "faca5bf5ffc2c6c1ee02c39659fdadf371c814abe2a090fe96c8b4d924dd7693"
-
-[[files]]
-file = "config/jaopca/materials/blaze.toml"
-hash = "fecd8649d28dbe23a7b543e6cf00ad8b7442412ad5bb4ad3b067ad2287570dbf"
-
-[[files]]
-file = "config/jaopca/materials/blaze_gold.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/blazegold.toml"
-hash = "f6a9f410dcdebc93b2d45d1389abea6f97b05f03af9688a4cd7f3cdea17826e0"
-
-[[files]]
-file = "config/jaopca/materials/blue_ice.toml"
-hash = "f7acdfa3c1c38b721a8f1e7288b7f1d0b40d19cd6c5d9c6d00418ea02e165a95"
-
-[[files]]
-file = "config/jaopca/materials/blutonium.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/bort.toml"
-hash = "9ca53181189067d257b1135ef4b8c43f9310dbdd4ff6ffa9ac84f978bcc85c2d"
-
-[[files]]
-file = "config/jaopca/materials/brick.toml"
-hash = "b170afd76838c7c99b72acefba14e735968b0b3a3b96cf176698dbe5c7c689a4"
-
-[[files]]
-file = "config/jaopca/materials/bronze.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/cadmium.toml"
-hash = "562e8c336e5c76d3b4c96e31035205a4365a13cf63ad13e31bfd9375b69cf423"
-
-[[files]]
-file = "config/jaopca/materials/calcite.toml"
-hash = "bb84c913436cb5ab8433d560b6fdc087106ffb19d5b50d8ef63b5ed402a7bb30"
-
-[[files]]
-file = "config/jaopca/materials/carbon.toml"
-hash = "dc335b610dd0a76ccddbf5519877c1e9992dbed6f82be0402028478a1b62687f"
-
-[[files]]
-file = "config/jaopca/materials/certus_quartz.toml"
-hash = "5455d6e1f6b9246f4bf4d5cf334ce3a74c8cc81524be625024d2ba965cddc2e4"
-
-[[files]]
-file = "config/jaopca/materials/charcoal.toml"
-hash = "6b34d07444b99b8b949aeb292db919bcaeb61f51cb6658a88b35e6fccb4966ec"
-
-[[files]]
-file = "config/jaopca/materials/chromium.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/cinnabar.toml"
-hash = "6335ac2fcb1cfc3d3720c73dc4b7d41aa3964a35f7ba59ac25d5207a4ff5e7c9"
-
-[[files]]
-file = "config/jaopca/materials/coal.toml"
-hash = "6b34d07444b99b8b949aeb292db919bcaeb61f51cb6658a88b35e6fccb4966ec"
-
-[[files]]
-file = "config/jaopca/materials/coal_coke.toml"
-hash = "6b34d07444b99b8b949aeb292db919bcaeb61f51cb6658a88b35e6fccb4966ec"
-
-[[files]]
-file = "config/jaopca/materials/cobalt.toml"
-hash = "c53799a19a7f4521fc3c04c84e82e2e69aea81a9e10dab7f9f58348cc52d4bd1"
-
-[[files]]
-file = "config/jaopca/materials/coke.toml"
-hash = "6b34d07444b99b8b949aeb292db919bcaeb61f51cb6658a88b35e6fccb4966ec"
-
-[[files]]
-file = "config/jaopca/materials/compressed_iron.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/conductive_alloy.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/constantan.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/copper.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/copper_alloy.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/corrupted_arcane_crystal.toml"
-hash = "2579396d9c00f4fc2abd6b0a22c0bb22fb45e53d3ff4fb2c64ec2f1d77e19afc"
-
-[[files]]
-file = "config/jaopca/materials/crimson_iron.toml"
-hash = "35d8b412ffa76d298ddaf05d44473b3364c699b8ea185834d0c8df197c4bbdda"
-
-[[files]]
-file = "config/jaopca/materials/crimson_steel.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/cupronickel.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/cyanite.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/dark_gem.toml"
-hash = "fc310d4207d26e63bda356f4d92972f35347f19f64f54331cfaa4b611d450049"
-
-[[files]]
-file = "config/jaopca/materials/dark_steel.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/deorum.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/diamond.toml"
-hash = "2579396d9c00f4fc2abd6b0a22c0bb22fb45e53d3ff4fb2c64ec2f1d77e19afc"
-
-[[files]]
-file = "config/jaopca/materials/draconic.toml"
-hash = "16e32d8e134a6704deca18012332cf04deedfd633d2ec28d2d1935e1e620030d"
-
-[[files]]
-file = "config/jaopca/materials/dragonyst.toml"
-hash = "8c7472bc78ac32039700ba18dc1927cdb2621ad0b99c81c1cff203e95acd352b"
-
-[[files]]
-file = "config/jaopca/materials/duratium.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/echo.toml"
-hash = "c122fee5e688077af8f554307f42fcc32a7976744f32dd82a97ea28e60a815ec"
-
-[[files]]
-file = "config/jaopca/materials/eclipsealloy.toml"
-hash = "5b235c0b8917a28b112f087b88e72bb929673a552659c97c897877a002101403"
-
-[[files]]
-file = "config/jaopca/materials/electrum.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/emerald.toml"
-hash = "2579396d9c00f4fc2abd6b0a22c0bb22fb45e53d3ff4fb2c64ec2f1d77e19afc"
-
-[[files]]
-file = "config/jaopca/materials/end_steel.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/end_stone.toml"
-hash = "6aca38d890c9df9745499c78bce6cc9657a8779f79c7935b871d0650d36f0bb4"
-
-[[files]]
-file = "config/jaopca/materials/ender_crystal.toml"
-hash = "93807a36f8a8f0bdc5cf448205291c295873f022b6be92c176031e3859f2069a"
-
-[[files]]
-file = "config/jaopca/materials/ender_pearl.toml"
-hash = "256f918214ae5f49ca288f971e086ed413ee10b9b4e21305ad78526d2bcc9f8b"
-
-[[files]]
-file = "config/jaopca/materials/energetic_alloy.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/energite.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/enticing_crystal.toml"
-hash = "f633a0e9b9ddcb1e0c45c5af7333391655689457c31a0e57189e5120abc27f47"
-
-[[files]]
-file = "config/jaopca/materials/entro.toml"
-hash = "2579396d9c00f4fc2abd6b0a22c0bb22fb45e53d3ff4fb2c64ec2f1d77e19afc"
-
-[[files]]
-file = "config/jaopca/materials/ferricore.toml"
-hash = "bc31bc7de3afd21bec8fd69a67588ccd89722bf71e9f335c4ac709b5ab16da55"
-
-[[files]]
-file = "config/jaopca/materials/fire_clay.toml"
-hash = "dabb6d79e2a0837330a6b6445bf9e1d321c89ac20c16c0cf2a84518bcb34659c"
-
-[[files]]
-file = "config/jaopca/materials/flour.toml"
-hash = "66d095cdf82d92bac453ccd6e8d9b8ea7308bb87926c2b9ae587713d09db6231"
-
-[[files]]
-file = "config/jaopca/materials/fluix.toml"
-hash = "8213e3eb43489639310f85fd3b5f3e8036db5f6bbbfc95daf031777fa2ddb909"
-
-[[files]]
-file = "config/jaopca/materials/fluorite.toml"
-hash = "d9c0996678db58b34af0890af9bb87975cf130c4db225ed57c0580edbab85f51"
-
-[[files]]
-file = "config/jaopca/materials/fluxite.toml"
-hash = "2579396d9c00f4fc2abd6b0a22c0bb22fb45e53d3ff4fb2c64ec2f1d77e19afc"
-
-[[files]]
-file = "config/jaopca/materials/glowstone.toml"
-hash = "6b34d07444b99b8b949aeb292db919bcaeb61f51cb6658a88b35e6fccb4966ec"
-
-[[files]]
-file = "config/jaopca/materials/gold.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/grains_of_infinity.toml"
-hash = "5e0778c00203430235c3ba8889cb3debf3afffb429c68c72b7f9637c1d0e4f7f"
-
-[[files]]
-file = "config/jaopca/materials/grains_of_pizeallity.toml"
-hash = "761631de3764be092cb240b9b5a45f148e37561b763c4cf2f5e167f01bcc8f2c"
-
-[[files]]
-file = "config/jaopca/materials/grains_of_prescience.toml"
-hash = "0ff1e45a1f113faec083dd3d0e89fe3f121056b6844ceaf57a537a466dbc456d"
-
-[[files]]
-file = "config/jaopca/materials/grains_of_the_end.toml"
-hash = "c7034d8108314c6447c8182bdc51639e53803cd17669e54311205562da118ef8"
-
-[[files]]
-file = "config/jaopca/materials/grains_of_vibrancy.toml"
-hash = "e460fed3e833220dc28e8dc5b3a1b9676f42bf499d4da76d2ee16ccf5c29352b"
-
-[[files]]
-file = "config/jaopca/materials/graphite.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/he_mox.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/he_uranium.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/hop_graphite.toml"
-hash = "79bca627441ad2a36a656c02db738c794a9e8ef0bce100345daa551951502437"
-
-[[files]]
-file = "config/jaopca/materials/ice.toml"
-hash = "885d869e4eb38fccf6d000d705e32d538dbab4d4a9648b985cd707a5eb90a0ab"
-
-[[files]]
-file = "config/jaopca/materials/iesnium.toml"
-hash = "2893dc91fae8b7e6aff08781fa32d4e2be64b88e42511b6f6d771e9ef59d2cf1"
-
-[[files]]
-file = "config/jaopca/materials/imperium.toml"
-hash = "f91c7a0600933e8fd18bc56a1a8ee96c301735cec1aa875e1582a82b14bbc260"
-
-[[files]]
-file = "config/jaopca/materials/inanite.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/inferium.toml"
-hash = "2e98bf1e344752531e20a6258792dcd319a3b578a5893e56d0db3fd0fd45363a"
-
-[[files]]
-file = "config/jaopca/materials/infused_entro.toml"
-hash = "e469b35cd35e4a371a9961d71334aff41847e76530fa99d6b830cc433c249edd"
-
-[[files]]
-file = "config/jaopca/materials/insanite.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/insanium.toml"
-hash = "d6bc62bcc59fbd54e847b5f04d055bdb6bae46e8dc47313a0c93a2032012c49f"
-
-[[files]]
-file = "config/jaopca/materials/invar.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/iridium.toml"
-hash = "d3ebf4308f72fa19e78f479e975a480da2637edb941bf342dbfa19c10a541b58"
-
-[[files]]
-file = "config/jaopca/materials/iron.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/kanthal.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/lapis.toml"
-hash = "2579396d9c00f4fc2abd6b0a22c0bb22fb45e53d3ff4fb2c64ec2f1d77e19afc"
-
-[[files]]
-file = "config/jaopca/materials/le_mox.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/le_uranium.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/lead.toml"
-hash = "bbc8f463d80d0e87b0770822bf53189d68432f9fa11f9c8582a41587af97e962"
-
-[[files]]
-file = "config/jaopca/materials/lignite_coal.toml"
-hash = "61afd4bf6d0d8fe98b342c48e6d3064accbef0cb95c0747f650c6a6214a6701c"
-
-[[files]]
-file = "config/jaopca/materials/lithium.toml"
-hash = "3000d19ec951f018d40163d07c23c795f44bf3de4ac7a3d2dfa09008e65fd32e"
-
-[[files]]
-file = "config/jaopca/materials/ludicrite.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/magentite.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/manganese.toml"
-hash = "6417c0029312ab9322a1f1800fee6accdb7f83f13163ebf637a9e9a12c2993a8"
-
-[[files]]
-file = "config/jaopca/materials/mithril.toml"
-hash = "1c9072fce8d37c5e6fb86c9d2aa434ef0fdab126b6846dd238ca1bca2e5ff78e"
-
-[[files]]
-file = "config/jaopca/materials/monazite.toml"
-hash = "8d393733652651da64eed8b91543df3ec3fda8ac6638acb35bd2b13a4c832ac9"
-
-[[files]]
-file = "config/jaopca/materials/neodymium.toml"
-hash = "6b34d07444b99b8b949aeb292db919bcaeb61f51cb6658a88b35e6fccb4966ec"
-
-[[files]]
-file = "config/jaopca/materials/netherite.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/netherite_scrap.toml"
-hash = "52ed99e472d60037fa6745050ceb5ce2327a4a77fcaea68d54a4ecb70e129c55"
-
-[[files]]
-file = "config/jaopca/materials/nickel.toml"
-hash = "ee823428d362e6859e5297b3cb2f557707954532c31a330a6120b6658f069e6e"
-
-[[files]]
-file = "config/jaopca/materials/obsidian.toml"
-hash = "d89284896409a6fb0546bb05fdc5c122a9ebafb5e0d40a302ae61bbdc21aadc1"
-
-[[files]]
-file = "config/jaopca/materials/obsidiansteel.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/osmium.toml"
-hash = "bbc8f463d80d0e87b0770822bf53189d68432f9fa11f9c8582a41587af97e962"
-
-[[files]]
-file = "config/jaopca/materials/otherstone.toml"
-hash = "9632cb1b38b2d3bd6eb6259c4afa6abc4c03dfd3f4d8fa80ab4143f09d736090"
-
-[[files]]
-file = "config/jaopca/materials/otherworld_wood.toml"
-hash = "8c834024b458fa5a8b9225a70329df05370c429676fd831c36a3ce1d936f349c"
-
-[[files]]
-file = "config/jaopca/materials/packed_ice.toml"
-hash = "702c6f3edf845ba4b34ae899d898b499087027daed9ed90fdefadc9c6bf7b262"
-
-[[files]]
-file = "config/jaopca/materials/pink_slime.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/platinum.toml"
-hash = "95d248e935f831ea59a56aee903c5405b43680eb53af20cdc538f8b49a988be3"
-
-[[files]]
-file = "config/jaopca/materials/plutonium.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/prescient_crystal.toml"
-hash = "e54a50ce8c7387df22174a6fc1df0214c94fb3739564b6f7158c6e6d0d2ea35a"
-
-[[files]]
-file = "config/jaopca/materials/prismarine.toml"
-hash = "d2e8e8546e59572bae8a97c634fb434e9234432479376f7662c60f335c0b7b9d"
-
-[[files]]
-file = "config/jaopca/materials/prometheum.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/prosperity.toml"
-hash = "3304d45c49a7ec3d6185bdc86e525a3d9738aa0b3fbb83d59336b511ca66b0d5"
-
-[[files]]
-file = "config/jaopca/materials/prudentium.toml"
-hash = "d950d1fd1db72b091a65e2031c7b7d370b030249bb25660d3703fba528aef2a1"
-
-[[files]]
-file = "config/jaopca/materials/pulsating_alloy.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/pulsating_crystal.toml"
-hash = "f5a4d216a4acd1830d4d5407748f3f3f59dde4f301fd07bda6b144be1ae98bd9"
-
-[[files]]
-file = "config/jaopca/materials/quartz.toml"
-hash = "5455d6e1f6b9246f4bf4d5cf334ce3a74c8cc81524be625024d2ba965cddc2e4"
-
-[[files]]
-file = "config/jaopca/materials/redstone.toml"
-hash = "6b34d07444b99b8b949aeb292db919bcaeb61f51cb6658a88b35e6fccb4966ec"
-
-[[files]]
-file = "config/jaopca/materials/redstone_alloy.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/refined_glowstone.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/refined_obsidian.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/research.toml"
-hash = "a78064d4a0b6d29f649571935d8c8e7d520c63b8139c22d9763e96201a394078"
-
-[[files]]
-file = "config/jaopca/materials/ridiculite.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/ruby.toml"
-hash = "0f95a5cc0c7da6ce1f41fe850878ce845159b9fb50470300fe11486a416b792f"
-
-[[files]]
-file = "config/jaopca/materials/salt.toml"
-hash = "8d393733652651da64eed8b91543df3ec3fda8ac6638acb35bd2b13a4c832ac9"
-
-[[files]]
-file = "config/jaopca/materials/saltpeter.toml"
-hash = "2ede5cdbcb28d86336fa7efb0b27c50e61fee64003c5664ae3b8d16a2e810520"
-
-[[files]]
-file = "config/jaopca/materials/silicon.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/silver.toml"
-hash = "dd0ee7f5aa6c116db001ec4d1ce6170e306a6cf97548528ba23bea96e0c003e2"
-
-[[files]]
-file = "config/jaopca/materials/sky_stone.toml"
-hash = "b79773686091d82aa5a4ec64430e7054f187a1573e064c055810f06f7778ebfe"
-
-[[files]]
-file = "config/jaopca/materials/sodium.toml"
-hash = "6b34d07444b99b8b949aeb292db919bcaeb61f51cb6658a88b35e6fccb4966ec"
-
-[[files]]
-file = "config/jaopca/materials/soldering_alloy.toml"
-hash = "6b34d07444b99b8b949aeb292db919bcaeb61f51cb6658a88b35e6fccb4966ec"
-
-[[files]]
-file = "config/jaopca/materials/soularium.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/soulium.toml"
-hash = "87d499478d8e3c10f6d668e98050c591133462d7d82388bf641b54a221debc61"
-
-[[files]]
-file = "config/jaopca/materials/source.toml"
-hash = "2579396d9c00f4fc2abd6b0a22c0bb22fb45e53d3ff4fb2c64ec2f1d77e19afc"
-
-[[files]]
-file = "config/jaopca/materials/stainless_steel.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/starmetal.toml"
-hash = "18e238867403785f3e84bad72afdcc54457ac42bc35993e212b1189a7bc3a535"
-
-[[files]]
-file = "config/jaopca/materials/steel.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/sulfur.toml"
-hash = "6b34d07444b99b8b949aeb292db919bcaeb61f51cb6658a88b35e6fccb4966ec"
-
-[[files]]
-file = "config/jaopca/materials/superconductor.toml"
-hash = "d59dfbd748a8d94e4d88a06cf90005c67488068444d74bb75842fc11aad6d87c"
-
-[[files]]
-file = "config/jaopca/materials/supremium.toml"
-hash = "47c2586bdd8d6cf0eb2d3cb77d5bad1cd099b06f4d5137dc28410040cf841618"
-
-[[files]]
-file = "config/jaopca/materials/tertium.toml"
-hash = "39a15bd666eaf5a984ccf34e6ef60434dd4123408a57a2b7b00164382d093e59"
-
-[[files]]
-file = "config/jaopca/materials/tin.toml"
-hash = "bbc8f463d80d0e87b0770822bf53189d68432f9fa11f9c8582a41587af97e962"
-
-[[files]]
-file = "config/jaopca/materials/titanium.toml"
-hash = "875ce3e6b6a0daf98ca4cecae8558216c80ef4cdc30f7992760e7715e2458697"
-
-[[files]]
-file = "config/jaopca/materials/tungsten.toml"
-hash = "b368d0855c1a7a7d26aea5be951c1b8a5f7639c87421188ba579167dd8d47bcc"
-
-[[files]]
-file = "config/jaopca/materials/tyrian_steel.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/uranium.toml"
-hash = "bbc8f463d80d0e87b0770822bf53189d68432f9fa11f9c8582a41587af97e962"
-
-[[files]]
-file = "config/jaopca/materials/uranium_235.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/uranium_238.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/vibrant_alloy.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/vibrant_crystal.toml"
-hash = "0dd4c9f593ac45e4197e6b9df52a4509b556db1e7d2d10c4d3f1fff86a4c5458"
-
-[[files]]
-file = "config/jaopca/materials/weather_crystal.toml"
-hash = "c3f51986ecbd8bacf1f8fc1a2cf80a4ee14548855fd87c42b4bd7fa92ea4079d"
-
-[[files]]
-file = "config/jaopca/materials/witherite.toml"
-hash = "8c90493c8eab1e619edb659c848d533d5225ead05683c5560e098c0a715bb9da"
-
-[[files]]
-file = "config/jaopca/materials/wood.toml"
-hash = "3ab5f4288cbee92a8fac3e5651aed71d8da7ab984a0c4f7f861e3425dbd65cfd"
-
-[[files]]
-file = "config/jaopca/materials/xychorium.toml"
-hash = "61afd4bf6d0d8fe98b342c48e6d3064accbef0cb95c0747f650c6a6214a6701c"
-
-[[files]]
-file = "config/jaopca/materials/yellorium.toml"
-hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
-
-[[files]]
-file = "config/jaopca/materials/yttrium.toml"
-hash = "6b34d07444b99b8b949aeb292db919bcaeb61f51cb6658a88b35e6fccb4966ec"
-
-[[files]]
-file = "config/jaopca/modules/custom.toml"
-hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
-
-[[files]]
-file = "config/jaopca/modules/dusts.toml"
-hash = "50a3c4486ab22acaec40792467ff5dc980ab2187f8db12b6b23c1de64c78357d"
-
-[[files]]
-file = "config/jaopca/modules/enderio.toml"
-hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
-
-[[files]]
-file = "config/jaopca/modules/enderio_compat.toml"
-hash = "009d9088d6fb5654625d06e176e38e687fbd834b587587c1998bfd2b0854b9a0"
-
-[[files]]
-file = "config/jaopca/modules/enderio_non_ingot.toml"
-hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
-
-[[files]]
-file = "config/jaopca/modules/immersiveengineering.toml"
-hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
-
-[[files]]
-file = "config/jaopca/modules/immersiveengineering_compat.toml"
-hash = "0ff064764cde399ebd17081679f7b98ea30db1407059d181ce19c994083dfa22"
-
-[[files]]
-file = "config/jaopca/modules/immersiveengineering_non_ingot.toml"
-hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
-
-[[files]]
-file = "config/jaopca/modules/integrateddynamics.toml"
-hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
-
-[[files]]
-file = "config/jaopca/modules/integrateddynamics_legacy.toml"
-hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
-
-[[files]]
-file = "config/jaopca/modules/integrateddynamics_non_ingot.toml"
-hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
-
-[[files]]
-file = "config/jaopca/modules/mekanism.toml"
-hash = "abc01d47e6e78554b3df4fdecbdf02258b8b3cf958209c71c293fd00ade568e3"
-
-[[files]]
-file = "config/jaopca/modules/mekanism_compat.toml"
-hash = "157f7c6535b97bf6179eed0cc0ea845c9b71275af314ab44f98fdfbc85505536"
-
-[[files]]
-file = "config/jaopca/modules/mekanism_non_ingot.toml"
-hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
-
-[[files]]
-file = "config/jaopca/modules/modern_industrialization.toml"
-hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
-
-[[files]]
-file = "config/jaopca/modules/modern_industrialization_compat.toml"
-hash = "450163f89354a0ef9502e6a8902d5bc104c9e8326b6abc57aa7ac371c3a3af2e"
-
-[[files]]
-file = "config/jaopca/modules/modern_industrialization_crushed.toml"
-hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
-
-[[files]]
-file = "config/jaopca/modules/molten.toml"
-hash = "50a3c4486ab22acaec40792467ff5dc980ab2187f8db12b6b23c1de64c78357d"
-
-[[files]]
-file = "config/jaopca/modules/nuggets.toml"
-hash = "50a3c4486ab22acaec40792467ff5dc980ab2187f8db12b6b23c1de64c78357d"
-
-[[files]]
-file = "config/jaopca/modules/occultism.toml"
-hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
-
-[[files]]
-file = "config/jaopca/modules/occultism_compat.toml"
-hash = "d8bf23a99ad71f75fb6eca40d0f84be17cb63ff6b2b988e93ed5b0cc813a5351"
-
-[[files]]
-file = "config/jaopca/modules/raw_storage_blocks.toml"
-hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
-
-[[files]]
-file = "config/jaopca/modules/small_dusts.toml"
-hash = "50a3c4486ab22acaec40792467ff5dc980ab2187f8db12b6b23c1de64c78357d"
-
-[[files]]
-file = "config/jaopca/modules/storage_blocks.toml"
-hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
-
-[[files]]
-file = "config/jaopca/modules/tiny_dusts.toml"
-hash = "50a3c4486ab22acaec40792467ff5dc980ab2187f8db12b6b23c1de64c78357d"
 
 [[files]]
 file = "config/jearchaeology-common.toml"
@@ -2618,7 +1846,7 @@ hash = "9bc6d36baafce373b47a783a4a12b79bfaea03af45e2069cfbbe32e551c3cd3a"
 
 [[files]]
 file = "config/oritech-config.json5"
-hash = "7c6ac1836bd69fefd119f863252885c524f219d3a59c4c9284400fe28b22f443"
+hash = "f852f9d689e0e244d804524d1eb1961bdb6a3ad9dd303bac4fc61d93263eb4f5"
 
 [[files]]
 file = "config/paganbless-common.toml"
@@ -3037,6 +2265,11 @@ file = "local/ftbultimine-client.snbt"
 hash = "e426309b95b693eb6b7bb2ee9b9a594324e83fd9a355e5e7267d64009dd292bd"
 
 [[files]]
+file = "mods/actually-additions.pw.toml"
+hash = "2587768d7eed74d6c728dbf0aa93dcc223d6488dc50a6737c5a59ef23933e31c"
+metafile = true
+
+[[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
 hash = "e7260b27651d94e66d5e30ab126dfbfa4822a6c1e22440f0c1b58c6de4b6aa42"
 metafile = true
@@ -3054,6 +2287,11 @@ metafile = true
 [[files]]
 file = "mods/almanac-lib.pw.toml"
 hash = "4a23eeb043648049dd1ef5d2cdabdba609602aa7c9ccc70bef8fd5c70d2d0c53"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "93ee94801a715829fd1dd170ce76b70e4ce382c4326e5fe846dd99c5b50df4a2"
 metafile = true
 
 [[files]]
@@ -3467,6 +2705,11 @@ hash = "2728d8eb6fced8220aaebafacfdef1ebca454657fbb215cc46d80442efd25dab"
 metafile = true
 
 [[files]]
+file = "mods/extended-industrialization.pw.toml"
+hash = "3d90dffa00f590b258e118125b7dcf4903e048747e3610a79295dcabdd833b17"
+metafile = true
+
+[[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "987ffcb6a44d996f281f1f2c2e54a9fdee70021dc614759e2bb4c580c27d23e7"
 metafile = true
@@ -3544,6 +2787,11 @@ metafile = true
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "18d945f32b952cbe60628bcda4c8e847e719e5d22a319336ece1d8d43331fc03"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "c675b9cd168806ec62ce23759f2353eeab1310f1f74346bb7a004b1fddcd2529"
 metafile = true
 
 [[files]]
@@ -4204,6 +3452,11 @@ metafile = true
 [[files]]
 file = "mods/sussy-sniffers.pw.toml"
 hash = "7b47c04b9ef1c1fbef6985b89bd1b4c84d33d0f665529d288a89d7353707a8bf"
+metafile = true
+
+[[files]]
+file = "mods/tesseract-api-neoforge.pw.toml"
+hash = "1758decf5884e4b2cbe4f85b6647f4aaa2457861260ab0d1d229f00f38a424c0"
 metafile = true
 
 [[files]]
