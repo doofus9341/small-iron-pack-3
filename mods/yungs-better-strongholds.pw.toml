@@ -1,0 +1,13 @@
+name = "YUNG's Better Strongholds (Forge)"
+filename = "YungsBetterStrongholds-1.21.1-Forge-5.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58a93886b018bd99356f149806acd2639a13b963"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5812202
+project-id = 465575

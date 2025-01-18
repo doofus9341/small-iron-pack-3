@@ -1,0 +1,13 @@
+name = "InvTweaks Emu for IPN"
+filename = "InvTweaksEmuForIPN-neoforge-1.21-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8407f7224ca43c79bfca375f9acab8ca58f08452"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5937195
+project-id = 776117

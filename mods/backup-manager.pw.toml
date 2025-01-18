@@ -1,0 +1,13 @@
+name = "Backup Manager"
+filename = "BackupManager-neoforge-1.21-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eee7a3cbeaf6b13f44187fa4ce49eef76ac6b099"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5783061
+project-id = 1005239

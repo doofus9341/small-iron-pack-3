@@ -1,0 +1,13 @@
+name = "CodeChicken Lib 1.8.+"
+filename = "CodeChickenLib-1.21.1-4.6.0.520.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb2ad1fb83bfbf84254cde480abf2f048038d675"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6061637
+project-id = 242818

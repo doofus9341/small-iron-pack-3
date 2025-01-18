@@ -1,0 +1,13 @@
+name = "AntiBlocksReChiseled"
+filename = "antiblocksrechiseled-neo-0.10.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd2f47ffeeff660e9d3b18b87094dc17761326e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5821674
+project-id = 715567

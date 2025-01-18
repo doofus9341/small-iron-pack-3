@@ -1,0 +1,13 @@
+name = "Compact Machines"
+filename = "compactmachines-neoforge-7.0.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ebad0055f13c8d0b0933c3406438e1f90a8f681c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5930456
+project-id = 224218
