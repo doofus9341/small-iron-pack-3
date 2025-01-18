@@ -11,7 +11,7 @@ A *MINIMUM* of **6 GB** of RAM allocated is required for this modpack, however *
 ## Installation
 [Prism Launcher](https://prismlauncher.org/) is required to import and install this modpack.
 
-[Small-Iron-Pack-3](https://www.dropbox.com/scl/fi/jv85ttwlflrne1fptpwfk/Small-Iron-Pack-3.zip?rlkey=ab3fpe68lalygkggh90j0e30e&dl=1) is the modpack instance you will import into Prism Launcher.
+[Small-Iron-Pack-3](https://www.dropbox.com/scl/fi/jv85ttwlflrne1fptpwfk/Small-Iron-Pack-3.zip?rlkey=ab3fpe68lalygkggh90j0e30e&dl=1) is the modpack zip you will import into Prism Launcher.
 
 The zip is a Prism Launcher instance pre-configured with [packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap).
 It is configured to run a Pre-launch command that will automatically download all required mods and config files, as well as update the modpack instance automatically.
@@ -25,7 +25,7 @@ The command it runs is `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https:
   </li>
   <li>Select Add Instance.</li>
   <li>From the sidebar, select Import</li>
-  <li>If you downloaded the modpack zip, select browse and navigate to the folder containing the manually downloaded modpack.
+  <li>If you manually downloaded the modpack, select browse and navigate to the folder containing the modpack zip.
     <ul>
       <li>To directly import it into Prism Launcher without manually downloading the zip, paste the following URL into the Import box:</li>
       <li>https://www.dropbox.com/scl/fi/jv85ttwlflrne1fptpwfk/Small-Iron-Pack-3.zip?rlkey=ab3fpe68lalygkggh90j0e30e&dl=1</li>
