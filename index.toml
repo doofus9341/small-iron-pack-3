@@ -954,7 +954,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a1b921b83e4663649744e2044bdd7adacc2758bd5f3bb6e3cb8bc0291b5fd5d6"
+hash = "b07d5ba41d3d8589795f7d33fbfb29a3c5fa1db898188399d73fc39d856983c0"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -1643,6 +1643,118 @@ hash = "417fe52c8378c8705d82eba9f11271da77bdda185a00a43bf2882f3c7ea4b995"
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jaopca/custom_forms.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jaopca/lang/en_us.json"
+hash = "83bd15b124f515a98ab4af06bd682026907d5ba41839be2cd8cd52d8558187a5"
+
+[[files]]
+file = "config/jaopca/main.toml"
+hash = "225061db58e374b3f65aef7bd0756c39f29e04e092191d9732c080c64cb6658e"
+
+[[files]]
+file = "config/jaopca/modules/custom.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
+file = "config/jaopca/modules/dusts.toml"
+hash = "50a3c4486ab22acaec40792467ff5dc980ab2187f8db12b6b23c1de64c78357d"
+
+[[files]]
+file = "config/jaopca/modules/enderio.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
+file = "config/jaopca/modules/enderio_compat.toml"
+hash = "009d9088d6fb5654625d06e176e38e687fbd834b587587c1998bfd2b0854b9a0"
+
+[[files]]
+file = "config/jaopca/modules/enderio_non_ingot.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
+file = "config/jaopca/modules/immersiveengineering.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
+file = "config/jaopca/modules/immersiveengineering_compat.toml"
+hash = "0ff064764cde399ebd17081679f7b98ea30db1407059d181ce19c994083dfa22"
+
+[[files]]
+file = "config/jaopca/modules/immersiveengineering_non_ingot.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
+file = "config/jaopca/modules/integrateddynamics.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
+file = "config/jaopca/modules/integrateddynamics_legacy.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
+file = "config/jaopca/modules/integrateddynamics_non_ingot.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
+file = "config/jaopca/modules/mekanism.toml"
+hash = "abc01d47e6e78554b3df4fdecbdf02258b8b3cf958209c71c293fd00ade568e3"
+
+[[files]]
+file = "config/jaopca/modules/mekanism_compat.toml"
+hash = "157f7c6535b97bf6179eed0cc0ea845c9b71275af314ab44f98fdfbc85505536"
+
+[[files]]
+file = "config/jaopca/modules/mekanism_non_ingot.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
+file = "config/jaopca/modules/modern_industrialization.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
+file = "config/jaopca/modules/modern_industrialization_compat.toml"
+hash = "450163f89354a0ef9502e6a8902d5bc104c9e8326b6abc57aa7ac371c3a3af2e"
+
+[[files]]
+file = "config/jaopca/modules/modern_industrialization_crushed.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
+file = "config/jaopca/modules/molten.toml"
+hash = "50a3c4486ab22acaec40792467ff5dc980ab2187f8db12b6b23c1de64c78357d"
+
+[[files]]
+file = "config/jaopca/modules/nuggets.toml"
+hash = "50a3c4486ab22acaec40792467ff5dc980ab2187f8db12b6b23c1de64c78357d"
+
+[[files]]
+file = "config/jaopca/modules/occultism.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
+file = "config/jaopca/modules/occultism_compat.toml"
+hash = "d8bf23a99ad71f75fb6eca40d0f84be17cb63ff6b2b988e93ed5b0cc813a5351"
+
+[[files]]
+file = "config/jaopca/modules/raw_storage_blocks.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
+file = "config/jaopca/modules/small_dusts.toml"
+hash = "50a3c4486ab22acaec40792467ff5dc980ab2187f8db12b6b23c1de64c78357d"
+
+[[files]]
+file = "config/jaopca/modules/storage_blocks.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
+file = "config/jaopca/modules/tiny_dusts.toml"
+hash = "50a3c4486ab22acaec40792467ff5dc980ab2187f8db12b6b23c1de64c78357d"
 
 [[files]]
 file = "config/jearchaeology-common.toml"
@@ -2706,7 +2818,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-industrialization.pw.toml"
-hash = "3d90dffa00f590b258e118125b7dcf4903e048747e3610a79295dcabdd833b17"
+hash = "d9a12d06b667634cfa198a2a4fbbceb57a441e66fdd060de642169d5049f9f9b"
 metafile = true
 
 [[files]]
@@ -3455,8 +3567,8 @@ hash = "7b47c04b9ef1c1fbef6985b89bd1b4c84d33d0f665529d288a89d7353707a8bf"
 metafile = true
 
 [[files]]
-file = "mods/tesseract-api-neoforge.pw.toml"
-hash = "1758decf5884e4b2cbe4f85b6647f4aaa2457861260ab0d1d229f00f38a424c0"
+file = "mods/tesseract-api.pw.toml"
+hash = "99b9dbfc19da6bcf584608be81959b2ea74b73049f0f5c3f0eab14942dd07255"
 metafile = true
 
 [[files]]
