@@ -946,7 +946,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "77f0a03d77846aa874bdbc21636226c378a9260317abc0a75f7a29d907f9e556"
+hash = "cc318383ce4cd12f8995ae466d4559b897176040578c80066eb82237913e4bbd"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -1121,6 +1121,10 @@ file = "config/computercraft-server.toml"
 hash = "9eaf827304515cc6ec720cb24726ce46efeea1e936d2740b3f74ec1a624fce33"
 
 [[files]]
+file = "config/configured-client.properties"
+hash = "a9f1058d68eb630eb4783d12da4a5dea5c2f5481fdf38280e33944b9593d2d9c"
+
+[[files]]
 file = "config/cookingforblockheads-common.toml"
 hash = "d04b5f27e36a155b3868342e04d786da4e63ad546bee88427f017cb490212a33"
 
@@ -1283,6 +1287,10 @@ hash = "03032d1ff18ffde91f6f16e5d2e3de9fb5a145eecfeb6c0b0305b8c24dab845c"
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
 hash = "31a037801309182a27f91d011889c5487783e287a153ab3529359f984fd6c386"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "ba61128a279aeb2f2682e7cca1fbda03b5618fb1495ffeb488764fd2f2c4356b"
 
 [[files]]
 file = "config/fallingleaves-client.toml"
@@ -1618,11 +1626,11 @@ hash = "f9f68a1557cdfab8394d2f4b54a2756d96451dcdddea4f5e04cb912b516ffa05"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "05a6ebb76e2f58e4dc931d28d2f21ced6fbe2df750d7d419036dc4f9d19835cb"
+hash = "26b2b4f7c090eec74127c58ab5f837102014142879b178584ab830f7d2241697"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "20691ba21a1990883f507ebdb2e6c78373b618a13ced267317836a57f4774de6"
+hash = "55eedb3a2b1cd301d73a294f884ef9dfefd8ae741e7e781806a49ce724f11df2"
 
 [[files]]
 file = "config/jamd/end.json"
@@ -1651,6 +1659,10 @@ hash = "83bd15b124f515a98ab4af06bd682026907d5ba41839be2cd8cd52d8558187a5"
 [[files]]
 file = "config/jaopca/main.toml"
 hash = "225061db58e374b3f65aef7bd0756c39f29e04e092191d9732c080c64cb6658e"
+
+[[files]]
+file = "config/jaopca/materials/adamant.toml"
+hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
 
 [[files]]
 file = "config/jaopca/materials/aluminum.toml"
@@ -1698,6 +1710,10 @@ hash = "8d393733652651da64eed8b91543df3ec3fda8ac6638acb35bd2b13a4c832ac9"
 
 [[files]]
 file = "config/jaopca/materials/beryllium.toml"
+hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
+
+[[files]]
+file = "config/jaopca/materials/biosteel.toml"
 hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
 
 [[files]]
@@ -1853,6 +1869,10 @@ file = "config/jaopca/materials/dragonyst.toml"
 hash = "8c7472bc78ac32039700ba18dc1927cdb2621ad0b99c81c1cff203e95acd352b"
 
 [[files]]
+file = "config/jaopca/materials/duratium.toml"
+hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
+
+[[files]]
 file = "config/jaopca/materials/echo.toml"
 hash = "c122fee5e688077af8f554307f42fcc32a7976744f32dd82a97ea28e60a815ec"
 
@@ -1889,6 +1909,10 @@ file = "config/jaopca/materials/energetic_alloy.toml"
 hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
 
 [[files]]
+file = "config/jaopca/materials/energite.toml"
+hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
+
+[[files]]
 file = "config/jaopca/materials/enticing_crystal.toml"
 hash = "f633a0e9b9ddcb1e0c45c5af7333391655689457c31a0e57189e5120abc27f47"
 
@@ -1915,6 +1939,10 @@ hash = "8213e3eb43489639310f85fd3b5f3e8036db5f6bbbfc95daf031777fa2ddb909"
 [[files]]
 file = "config/jaopca/materials/fluorite.toml"
 hash = "d9c0996678db58b34af0890af9bb87975cf130c4db225ed57c0580edbab85f51"
+
+[[files]]
+file = "config/jaopca/materials/fluxite.toml"
+hash = "2579396d9c00f4fc2abd6b0a22c0bb22fb45e53d3ff4fb2c64ec2f1d77e19afc"
 
 [[files]]
 file = "config/jaopca/materials/glowstone.toml"
@@ -2111,6 +2139,10 @@ hash = "e54a50ce8c7387df22174a6fc1df0214c94fb3739564b6f7158c6e6d0d2ea35a"
 [[files]]
 file = "config/jaopca/materials/prismarine.toml"
 hash = "d2e8e8546e59572bae8a97c634fb434e9234432479376f7662c60f335c0b7b9d"
+
+[[files]]
+file = "config/jaopca/materials/prometheum.toml"
+hash = "8c1b94b7b320c5ee33e5a8c67a5e50dce195a3fa272155c2eaf974ff9aebc0b3"
 
 [[files]]
 file = "config/jaopca/materials/prosperity.toml"
@@ -2393,38 +2425,6 @@ file = "config/jei-server.toml"
 hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
 
 [[files]]
-file = "config/jei/blacklist.json"
-hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
-
-[[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "df89806af6c5c0dc342d036b9456a35be4a5811071f2e23ddb0e80884a8df78f"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "80c437729f28d1ad9e94eb3a1bbd8c14cd9f98a71f24f604103855f56993c9fc"
-
-[[files]]
-file = "config/jei/jei-client.ini"
-hash = "0721632c79aa20adb5d593e68d193031a5d61c2b1d321b158c33bd3308bcff99"
-
-[[files]]
-file = "config/jei/jei-colors.ini"
-hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
-
-[[files]]
-file = "config/jei/jei-debug.ini"
-hash = "9e445273b8868aae630a7ec5b20ce5212aa813d855be81bcc874bd4aa43e16a4"
-
-[[files]]
-file = "config/jei/jei-mod-id-format.ini"
-hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "ff41bf1eed14bccda412169803f8782049318774589c13523990de4a85761c67"
-
-[[files]]
 file = "config/jei_mekanism_multiblocks-client.toml"
 hash = "b43c3d68a6ada30ad2e3864a00ba4b4cd7f94fe1bd1df20bf89c48d9ecde1b4c"
 
@@ -2442,7 +2442,7 @@ hash = "ba828ddc6c57d971b9fa2591e9676229663be1ce6726173cce45bc442e96e7f6"
 
 [[files]]
 file = "config/justdirethings-common.toml"
-hash = "4fa6cff85fc331b1a2665fad094a9b09b3f6377ea359ba824370efa415d3884f"
+hash = "63d33932bab59671bf4815608028ae884cd87d979cbcdd1b93416bb1473fba9e"
 
 [[files]]
 file = "config/justhammers.json"
@@ -2621,6 +2621,10 @@ file = "config/ok_zoomer/config.toml"
 hash = "9bc6d36baafce373b47a783a4a12b79bfaea03af45e2069cfbbe32e551c3cd3a"
 
 [[files]]
+file = "config/oritech-config.json5"
+hash = "7c6ac1836bd69fefd119f863252885c524f219d3a59c4c9284400fe28b22f443"
+
+[[files]]
 file = "config/paganbless-common.toml"
 hash = "6a06fbfbc15a10b2091c23779adc0461679b666e114e795fabc361ca720c944c"
 
@@ -2673,16 +2677,20 @@ file = "config/pneumaticcraft/thirdparty.cfg"
 hash = "e9af5f88697631ee27cb744f587f6f75a68cebab371e0df6f795ea63fce79d6a"
 
 [[files]]
+file = "config/polylib.json"
+hash = "b3458a87968614175fc965b0e99339d70dc6728308138bebdd970d2679f2c672"
+
+[[files]]
 file = "config/powah.json5"
 hash = "aeaedba1a7b7732e561467f71b136e5cade50ae561ae217361271fe5efbf87b2"
 
 [[files]]
 file = "config/productivebees-client.toml"
-hash = "d72640b6f24a9d602a280619b2871d510e78b22e6010050f956244494b2dfba9"
+hash = "d70ff6dccf20507ef3564734f25e743bee50876a580137a95192a11f3ffad1eb"
 
 [[files]]
 file = "config/productivebees-server.toml"
-hash = "42a6792491d63316978e804e48ebd6260a1fb7f7d9913006d857e51c764a0fbb"
+hash = "0ec351f64e92aa3f3d82d8ec8a7736618e6e95cfa5cd6c78a169d323d556de80"
 
 [[files]]
 file = "config/productivelib-server.toml"
@@ -2866,7 +2874,7 @@ hash = "633a90a36cf0947b199e9a6737c19982d8130820a18b69aa0d16240b584ec001"
 
 [[files]]
 file = "config/toms_storage-common.toml"
-hash = "7526db9cc2784f1ad0d571e8ea810f607b51c9d981437a21bd75654f3d47045d"
+hash = "a7ff87dbfa4587eda3e1aa9f8e05102bdf0e6f7961fde07a360e86c6cd69da1f"
 
 [[files]]
 file = "config/toms_storage-server.toml"
