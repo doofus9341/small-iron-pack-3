@@ -1,13 +1,13 @@
 name = "InvTweaks Emu for IPN"
 filename = "InvTweaksEmuForIPN-neoforge-1.21-1.1.3.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "8407f7224ca43c79bfca375f9acab8ca58f08452"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/OPgKEuYO/versions/O2HPNAp1/InvTweaksEmuForIPN-neoforge-1.21-1.1.3.jar"
+hash-format = "sha512"
+hash = "667ad17f99cd2b3ef51504b9f1544c90e721fdf86c1a9f57a25ca4f6c4ac6d7d0d6bc06ff343bd0212fc6d0234c12469b2e0c67ff4bad6ba8a0633f0e78c89cb"
 
 [update]
-[update.curseforge]
-file-id = 5937195
-project-id = 776117
+[update.modrinth]
+mod-id = "OPgKEuYO"
+version = "O2HPNAp1"
