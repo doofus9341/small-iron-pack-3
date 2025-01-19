@@ -1657,6 +1657,18 @@ file = "config/jaopca/main.toml"
 hash = "225061db58e374b3f65aef7bd0756c39f29e04e092191d9732c080c64cb6658e"
 
 [[files]]
+file = "config/jaopca/modules/actuallyadditions.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
+file = "config/jaopca/modules/actuallyadditions_legacy.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
+file = "config/jaopca/modules/actuallyadditions_non_ingot.toml"
+hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
+
+[[files]]
 file = "config/jaopca/modules/custom.toml"
 hash = "c05815dc5fe3e57b9b9b673697ba01b29f190941b2586c5d558d4c226d0d6058"
 
@@ -1767,6 +1779,10 @@ hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
 [[files]]
 file = "config/jei_mekanism_multiblocks-client.toml"
 hash = "b43c3d68a6ada30ad2e3864a00ba4b4cd7f94fe1bd1df20bf89c48d9ecde1b4c"
+
+[[files]]
+file = "config/jmi-client.toml"
+hash = "b878b0d81ff300055df427c5a58f10243ebfda5989bb2cf5eaba16a17a21d8d4"
 
 [[files]]
 file = "config/journeymap-server.toml"
@@ -2341,6 +2357,10 @@ file = "icon.png"
 hash = "d84f4087f400a8911951d43e80c18b214be1d1595f8422c4f348b5dc622dc9cf"
 
 [[files]]
+file = "local/ftbchunks/client-config.snbt"
+hash = "dfed2acc3261b75cde582e09102504a8117279297f854aea959f5219930c0d00"
+
+[[files]]
 file = "local/ftblibrary-client.snbt"
 hash = "749c947ef3e1d038863875e00787e23c5fef38d3b0f39451bfb54497b8597717"
 
@@ -2874,6 +2894,11 @@ hash = "18d945f32b952cbe60628bcda4c8e847e719e5d22a319336ece1d8d43331fc03"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "c080cdab6f2b4ce5f812dfb18697dd133435957814375a08f0fb4cc2d487f0d6"
+metafile = true
+
+[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "c675b9cd168806ec62ce23759f2353eeab1310f1f74346bb7a004b1fddcd2529"
 metafile = true
@@ -2881,6 +2906,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "9dfe33a6562982c05e091d996c7ef98715852e785ee41c6ff57b6d4082163d5e"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "a1e0a6447bfc206a77a2493dcb4b09a4ac7cbc245b9ae3d94828ebe94ff03bc1"
 metafile = true
 
 [[files]]
@@ -3066,6 +3096,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "c344b0630eedfa7f8ed24e7cb916e49c231df456c40d20fc2b5fc0b675fb6517"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "2c0a2bb73cee4c5d9948a0b409e61c2fd7ecafe35fce800c907b3605f89207ee"
 metafile = true
 
 [[files]]
