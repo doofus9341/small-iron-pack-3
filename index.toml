@@ -1514,7 +1514,7 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "8e0bb1e8772159a1a9063ec63ac2c70d361da14c64c7583c9e30b7999a848cb8"
+hash = "f30167bc6670a192e8eaf5b85c4d683a71b0aa9c87dcb671160dfdbb891ade70"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
