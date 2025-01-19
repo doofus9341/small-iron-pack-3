@@ -954,7 +954,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "cf5e0292afe37247424ca7a1af661b313bfb0beb4ca2f8ec20afed8f106bc483"
+hash = "39e840e6ea5dd95602389af0c39920c35f36a086690574a2342603b6af61fecd"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -1866,7 +1866,7 @@ hash = "d6dd0e83dc8903b9fad926cc47f0a02b8c446d7bac54a86c95900ed5d16c0cd6"
 
 [[files]]
 file = "config/modern_industrialization.toml"
-hash = "72f9500018b4c8608b6f3af5d33a577b1f6bf495facf8b7f2d6fe72dd29d9be5"
+hash = "8157dbcdfb5a2d91202c3db26170c3b7df534ce45cf62668b013656c13bb62bb"
 
 [[files]]
 file = "config/modernfix-common.toml"
