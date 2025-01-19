@@ -954,7 +954,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "1d7fa393678161a067b07ce98da4e61a40a5017b3416e83cd08f783c5460571d"
+hash = "cf5e0292afe37247424ca7a1af661b313bfb0beb4ca2f8ec20afed8f106bc483"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -3100,7 +3100,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap-integration.pw.toml"
-hash = "2c0a2bb73cee4c5d9948a0b409e61c2fd7ecafe35fce800c907b3605f89207ee"
+hash = "b93e66b2827f2eee4725e5690dd67382030f9ba5060114b6ea14f9e33af63f65"
 metafile = true
 
 [[files]]
