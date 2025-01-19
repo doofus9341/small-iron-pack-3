@@ -954,7 +954,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b07d5ba41d3d8589795f7d33fbfb29a3c5fa1db898188399d73fc39d856983c0"
+hash = "1d7fa393678161a067b07ce98da4e61a40a5017b3416e83cd08f783c5460571d"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -2281,34 +2281,6 @@ file = "config/trashcans-common.toml"
 hash = "9098a40f3445da4e4e330750079d5629abe4632c211c6f8db11bb0dea829e5d8"
 
 [[files]]
-file = "config/variantsandventures/mod_mobs.json"
-hash = "4a4aa0a48fac4ca5fd3b27a3e7ba468bd1b74add8937c9dad63c95b9441aadda"
-
-[[files]]
-file = "config/variantsandventures/vanilla_mobs.json"
-hash = "d5fa8c73f390b7c90c0675cede5488a792afcf761a6f893ccbcb09dc0da6fafe"
-
-[[files]]
-file = "config/visuality/config.toml"
-hash = "8eb00d7011fe645839281c68c3c67fb28cdc97e4541bc6b45d94426ffd3bfd50"
-
-[[files]]
-file = "config/visuality/particle_emitters/block_ambient.json"
-hash = "bd951562cd4789494eeadab9cb79d82ca79804969111603f8dc638b70fa8def3"
-
-[[files]]
-file = "config/visuality/particle_emitters/block_step.json"
-hash = "54d4448f6c45ba1ad311f6c35b55b9b800ad4ae664f075707e05cd798b6eab7b"
-
-[[files]]
-file = "config/visuality/particle_emitters/entity_armor.json"
-hash = "83bcfff6c0eaf573b3cef8fd85e7045b66c91c7a5bf0415942d77c45476e23cc"
-
-[[files]]
-file = "config/visuality/particle_emitters/entity_hit.json"
-hash = "db1fe2d772c0ed136c2d1da0c315bc50ba9760032a60253be6f37ce1d7e38ead"
-
-[[files]]
 file = "config/waterdripsound.json"
 hash = "14c10834e86f2b05dba7fbf16351344dbd73e31f8a2f172a7d2c1122e9aab407"
 
@@ -3609,16 +3581,6 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "f66b05f25f9200fff0d58381adf3036d8bd757584e6d9a575f0375ea7e84fadd"
-metafile = true
-
-[[files]]
-file = "mods/variants-and-ventures.pw.toml"
-hash = "d8f781a5c5a995be3318319ed9f1495f062b00967fa20be1ff23e70994038beb"
-metafile = true
-
-[[files]]
-file = "mods/visuality-reforged.pw.toml"
-hash = "df82a98289bcc9de4653cf78f01ee544bf1ff3fc2bac22a2eda0710ed28196ab"
 metafile = true
 
 [[files]]
