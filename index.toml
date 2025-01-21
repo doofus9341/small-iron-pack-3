@@ -954,7 +954,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "3dfb4b7b6b51842998113696b91501c3bda7470e51fe47f16bc28fb9d076899f"
+hash = "7e2924f54b68fc597479796da0fc81b2f306185f3442ce2f149b514efe2d4ee2"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -1187,6 +1187,10 @@ hash = "0f1e7df65dc4fcff84594a708ebed689598dd05dec4cfca38e9f807ca817c5c0"
 [[files]]
 file = "config/cyclopscore-common.toml"
 hash = "fede2239a8566281381e13f863d6a30a326ea4a89bca5c7b5badad75f9536fd4"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "956e3d89131a989e9599bfda9956a33bbb12bef66cce99081bcea132f2cd0307"
 
 [[files]]
 file = "config/dismountentity.json5"
@@ -2719,6 +2723,11 @@ hash = "d104c40d585e06303a47ebc1f61d07f5fe9670d857008d56cd6a35f8440c4d3f"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "470b0d6784bece922b1664b34eb022cdcfdffb6c36247389eb32a8154d20057f"
+metafile = true
+
+[[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "15054887b809adac7ec2500f3e883168eed6ed91373b92a054b6d04997b18a49"
 metafile = true
@@ -3722,7 +3731,3 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "a98d5abfe927c67e5237d003e4859c65f3afdc1d0dd73c623eb06a3a05dc4972"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "3e990ebb9b726416b1ac722dbda7466c31eab1b29ca9bb7e5bb3c9c5244f20d4"

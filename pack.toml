@@ -1,12 +1,12 @@
 name = "Small Iron Pack 3"
 author = "taffer3935"
-version = "1.0.9"
+version = "1.1.2"
 pack-format = "packwiz:1.1.1"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "277bbe6380d7d5ab81d10c22baa5c3f1e8f51764af17e925861f9ee4093c8d64"
+hash = "eb6ecf35b819b519b029d64c0e5eb9426b4c99e6e7f83484f7664526423c6cb5"
 
 [versions]
 minecraft = "1.21.1"
