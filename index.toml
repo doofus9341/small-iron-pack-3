@@ -1194,7 +1194,7 @@ hash = "7f84b4d37e39956dd57ed232b08453ea3c2c4578bdf1430d42b4e77a15024b75"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "956e3d89131a989e9599bfda9956a33bbb12bef66cce99081bcea132f2cd0307"
+hash = "0dbe1d939936a3929f02c27b52ab3389596b26f4224408ebc3a550a94f3984b7"
 
 [[files]]
 file = "config/dismountentity.json5"

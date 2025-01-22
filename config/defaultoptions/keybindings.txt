@@ -121,6 +121,7 @@ key_pneumaticcraft.helmet.debugging.drone:key.keyboard.unknown:
 key_pneumaticcraft.boots.kick:key.keyboard.x:CONTROL
 key_pneumaticcraft.chestplate.launcher:key.keyboard.c:CONTROL
 key_pneumaticcraft.boots.jet_boots:key.keyboard.space:
+key_key.petyourcobblemon.toggleinteractmode:key.keyboard.right.shift:
 key_key.immersiveengineering.magnetEquip:key.keyboard.s:
 key_key.immersiveengineering.railgunZoom:key.mouse.middle:
 key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown:
@@ -295,6 +296,15 @@ key_key.buildinggadgets2.settings_menu:key.keyboard.g:
 key_key.buildinggadgets2.undo:key.keyboard.u:
 key_key.buildinggadgets2.anchor:key.keyboard.h:
 key_key.buildinggadgets2.range:key.keyboard.r:
+key_key.rotateup:key.keyboard.up:
+key_key.rotatedown:key.keyboard.down:
+key_key.rotateright:key.keyboard.right:
+key_key.rotateleft:key.keyboard.left:
+key_key.little.mirror:key.keyboard.g:
+key_key.little.mark:key.keyboard.m:
+key_key.little.config.item:key.keyboard.c:
+key_key.little.undo:key.keyboard.z:CONTROL
+key_key.little.redo:key.keyboard.y:CONTROL
 key_key.entityculling.toggle:key.keyboard.unknown:
 key_pneumaticcraft.armor.upgrade.fall_protection:key.keyboard.unknown:
 key_pneumaticcraft.armor.upgrade.jet_boots.module.hover:key.keyboard.unknown:
