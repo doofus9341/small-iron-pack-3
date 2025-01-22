@@ -350,7 +350,7 @@ hash = "b5990e67e62d60837508ef900955ba274ed580aa865cd377379ddf69762cdc85"
 
 [[files]]
 file = "config/ars_nouveau/glyph_delay.toml"
-hash = "19f4a2a4b16004f4579db21a171e37eb9b519bf5853d43b57048a4f0812434b3"
+hash = "60c1312af54e31208e668c8295e45ce1a4169d22af5ef5058e0c97981d9837d4"
 
 [[files]]
 file = "config/ars_nouveau/glyph_dispel.toml"
@@ -954,7 +954,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b0bf0d591ea73c377ddbd5a7472c578529a3a2545dbd4d7eea46f1fd1bdc9ed3"
+hash = "f26b025a68e7a377e8547c723367ef4201f670f907be6bfb96ce116518e83a06"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -1187,6 +1187,10 @@ hash = "0f1e7df65dc4fcff84594a708ebed689598dd05dec4cfca38e9f807ca817c5c0"
 [[files]]
 file = "config/cyclopscore-common.toml"
 hash = "fede2239a8566281381e13f863d6a30a326ea4a89bca5c7b5badad75f9536fd4"
+
+[[files]]
+file = "config/defaultoptions-common.toml"
+hash = "7f84b4d37e39956dd57ed232b08453ea3c2c4578bdf1430d42b4e77a15024b75"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -1653,12 +1657,8 @@ file = "config/jaopca/custom_forms.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/jaopca/lang/en_us.json"
-hash = "83bd15b124f515a98ab4af06bd682026907d5ba41839be2cd8cd52d8558187a5"
-
-[[files]]
 file = "config/jaopca/main.toml"
-hash = "225061db58e374b3f65aef7bd0756c39f29e04e092191d9732c080c64cb6658e"
+hash = "5cd01bb88384ef7f4285b476a74e6e96c4e926e638eac663583dd7710d16b9f1"
 
 [[files]]
 file = "config/jaopca/modules/actuallyadditions.toml"
@@ -1809,6 +1809,10 @@ file = "config/justhammers.json"
 hash = "0d50b4983dc91105c40049396b95c25a1198e5ad4d36d4d2cc14970dbbc73e8e"
 
 [[files]]
+file = "config/kleeslabs-common.toml"
+hash = "5bb9e052441aca3b72d7f49adc40f40d222bb3404e0f7114c48e998195c73c3a"
+
+[[files]]
 file = "config/konkrete/locals/de_de.local"
 hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
 
@@ -1841,6 +1845,14 @@ file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
 [[files]]
+file = "config/littletiles-client.json"
+hash = "9217db4bfe5f0a44061e2d04b615e589f47ca3e9679cbf6274aa8abe5466c6ee"
+
+[[files]]
+file = "config/littletiles.json"
+hash = "cabc422d2e5f595e66e52a6e92bca74c7eeca2095e95106dfd24ae43b7ee3c39"
+
+[[files]]
 file = "config/lootintegrations.json"
 hash = "aa35b459eb46a0d9992889629afd6b7519b7925ee549261c439d94c59e9e2cb2"
 
@@ -1867,6 +1879,10 @@ hash = "da483e985c2e668da28d650065e28606ee6e5592f38a29d5655b067295380555"
 [[files]]
 file = "config/mekanismcovers.json"
 hash = "d6dd0e83dc8903b9fad926cc47f0a02b8c446d7bac54a86c95900ed5d16c0cd6"
+
+[[files]]
+file = "config/mob_grinding_utils-server.toml"
+hash = "a189a7fea65b50f1a7d63e74561d2440f920a0ade48ae2d4b35ffb13c4e477fd"
 
 [[files]]
 file = "config/modern_industrialization.toml"
@@ -2613,6 +2629,11 @@ hash = "d06890e8ade18357c554b4d1d8ad3c9d5ad3ab1177ed6d68182e87b44d5571c9"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-tm-neoforge.pw.toml"
+hash = "90a7307e3e4dcf97355898222f92f74869ac5fed44450294414cde22d1189e18"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "b8de6c0c997a54503f5c8b168b91a2b6a273d9faff96de7814a06df31d25f831"
 metafile = true
@@ -2685,6 +2706,11 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "141bec32c90144fdf64617a3a7c997cabb062b6f6690f21dd70b6a83034d11fd"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "8993ff627719611b62c24aabbfc49bf544bfb2de7a9ca44de10c6e1e90eefe36"
 metafile = true
 
 [[files]]
@@ -3158,6 +3184,11 @@ hash = "8d228f190aeba34dec7759072f966e9a2b0f9485308c97bc747f6eee075ceeb2"
 metafile = true
 
 [[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "486c852fab3a919846eb69a9447e288b4671b34d13da5d47ef7208bbb5880c31"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "51e8c729a6722d04ff85da2afac2b1c2178587be7713027cbc9cd0c58f668929"
 metafile = true
@@ -3185,6 +3216,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "5bd418a5a490cc6ed1e7ed70d0f432a91adccd319521f4c4fb0ee4f9b6f7febb"
+metafile = true
+
+[[files]]
+file = "mods/littletiles.pw.toml"
+hash = "1dc99611b9b349ec98eb4b083a3bedbe8dc85571548870712e20a0abc2d68e8b"
 metafile = true
 
 [[files]]
@@ -3235,6 +3271,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
+metafile = true
+
+[[files]]
+file = "mods/mob-grinding-utils.pw.toml"
+hash = "0a8317fee9d254c538ab771a7b1ebb4deec0bca6207b3e7e52b37e0708f1f9d4"
 metafile = true
 
 [[files]]
@@ -3350,6 +3391,11 @@ metafile = true
 [[files]]
 file = "mods/paxi-neoforge.pw.toml"
 hash = "33aab523b1f69c786c7ad09121f02dd0d949f9e7c8c927f7d9969abc333ac50e"
+metafile = true
+
+[[files]]
+file = "mods/pet-your-cobblemon.pw.toml"
+hash = "09b8ad64a31d67dd51c97fdf80ecdd5f5f37b64ffab40d35c3a69be0babe7cef"
 metafile = true
 
 [[files]]

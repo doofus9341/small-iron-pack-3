@@ -22,16 +22,16 @@
 #Configurations related to material overrides.
 [materialOverrides]
 	#List of materials that should be gems.
-	gem = ["diamond", "emerald", "lapis", "prismarine", "quartz"]
+	gem = ["diamond", "emerald", "lapis", "prismarine", "quartz", "fluorite", "uranite", "prosperity_shard"]
 	#List of materials that should be crystals.
 	crystal = []
 	#List of materials that should be dusts.
-	dust = ["glowstone", "redstone"]
+	dust = ["glowstone", "redstone", "inferium", "prudentium", "tertium", "imperium", "supremium", "netherite", "sulfur", "saltpeter"]
 
 #Configurations related to item selection.
 [itemSelection]
 	#List of mods that are preferred when selecting items in recipes.
-	preferredMods = ["minecraft"]
+	preferredMods = ["minecraft", "mekanism", "occultism", "modern_industrialization", "xycraft_world", "xycraft_machines", "mysticalagriculture", "forbidden_arcanus", "ae2", "enderio", "actuallyadditions", "mob_grinding_utils", "justdirethings", "immersiveengineering", "oritech"]
 
 #Configurations related to block tags.
 [blockTags]
