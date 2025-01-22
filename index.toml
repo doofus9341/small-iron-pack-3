@@ -954,7 +954,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "7e2924f54b68fc597479796da0fc81b2f306185f3442ce2f149b514efe2d4ee2"
+hash = "b0bf0d591ea73c377ddbd5a7472c578529a3a2545dbd4d7eea46f1fd1bdc9ed3"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -2390,6 +2390,11 @@ metafile = true
 [[files]]
 file = "mods/advancements-reloaded.pw.toml"
 hash = "b3bf7a7f409e023bb40a6d07baf543c132a79740ddda17623710315bce4123e0"
+metafile = true
+
+[[files]]
+file = "mods/ae2-jei-integration.pw.toml"
+hash = "0794a45bf4c6cf8c17aebca641c306a7a25334ecb654f959c55ab2c3e81bddd7"
 metafile = true
 
 [[files]]
