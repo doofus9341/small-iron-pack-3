@@ -954,7 +954,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "40b1ef5931faebadf219c50ce5ce7cb6e10a8e698ef38c0037263814ce4ff0ad"
+hash = "1eb23a7dc044d9490083bb784138745e1275c7baa8820bd5a8558609c007e7cd"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -1399,6 +1399,18 @@ hash = "a93d17a74c8742bdb758d8d03743cae4363cfc0013a6c18312d06dd4c820113e"
 [[files]]
 file = "config/flopper-common.toml"
 hash = "ffb9cb78055651f49b7e96c368ae704b4a7955175eca301ac43bc98967d36f9b"
+
+[[files]]
+file = "config/fluxnetworks-client.toml"
+hash = "ac33e3042670f3fb87b499fd5b99a05b1b245bb2f60d639ac4bf80fb280a9b4b"
+
+[[files]]
+file = "config/fluxnetworks-common.toml"
+hash = "6133e4a9c4b7ec8d29e34dcdc7e3c13ca9fb143ceb99d5a69718da4cb8e7c45e"
+
+[[files]]
+file = "config/fluxnetworks-server.toml"
+hash = "598f3bdb74d030f2f5b50c38ae9436610302f3b3e08165b1fcdbec3397ca763a"
 
 [[files]]
 file = "config/fml.toml"
@@ -2928,6 +2940,11 @@ metafile = true
 [[files]]
 file = "mods/flopper.pw.toml"
 hash = "5a45bc9cf29c56289ac0d413ae3b79d712014f939b22b8ef0e14bbbf271fb45a"
+metafile = true
+
+[[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
 metafile = true
 
 [[files]]
