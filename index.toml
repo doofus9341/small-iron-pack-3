@@ -954,7 +954,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f26b025a68e7a377e8547c723367ef4201f670f907be6bfb96ce116518e83a06"
+hash = "00b3ce2f58b4b1da16541b55957538758ae313ea3d7d9f0128dc2180faf34e03"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -2894,6 +2894,11 @@ hash = "a9d10573c8fd26e9b43e7af70179c825cec64a5339d7b9d2059436ca4b86c6f7"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "e5c471aaab9047178ad25e91d28240fefd7b6e48d52af4274bc53239eb1da8c6"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "cd6722988536fc6a348afbb17aabbf4bba8c5a8ebd7287e6e4dd7e26647c99cb"
 metafile = true
@@ -2941,6 +2946,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "a20342309a55d2c930646f5e5e044c34e3c4844b239c3d0a41be1a6c89ac711a"
+metafile = true
+
+[[files]]
+file = "mods/ftb-jei-extras.pw.toml"
+hash = "633ae454b97be59f1cebb1e94e53a6c556d27d8679474a7a0a86668c9f90f8cf"
 metafile = true
 
 [[files]]
