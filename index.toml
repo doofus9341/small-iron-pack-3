@@ -954,7 +954,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "00b3ce2f58b4b1da16541b55957538758ae313ea3d7d9f0128dc2180faf34e03"
+hash = "40b1ef5931faebadf219c50ce5ce7cb6e10a8e698ef38c0037263814ce4ff0ad"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -1375,6 +1375,10 @@ hash = "68f41647b7aec472b79032d4200331eab9944aea5548d3265f59646cb0b18813"
 [[files]]
 file = "config/fastbench.cfg"
 hash = "b9f2753df740086016ae47d0f9b69521b1233546fd564bf2797ed93fd5c60efb"
+
+[[files]]
+file = "config/fastleafdecay-server.toml"
+hash = "94e480adf5c3226e70f40c31eb8f89c601b5006c25edf37ed69b3bc390774c7f"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -2001,6 +2005,14 @@ file = "config/paganbless-common.toml"
 hash = "6a06fbfbc15a10b2091c23779adc0461679b666e114e795fabc361ca720c944c"
 
 [[files]]
+file = "config/pamhc2crops.toml"
+hash = "b3a830f68c6e67ad631567cf1d8194a8ee1e916745b997d2776499b7ce0ae7aa"
+
+[[files]]
+file = "config/pamhc2trees.toml"
+hash = "bf9ea40e2b286ab7156442646ae2a1472fb611e23fb6fce0329c4cc49665274e"
+
+[[files]]
 file = "config/patchouli-client.toml"
 hash = "d9a6d7cadb6d473cf087602d9866840d2bb7f2c16915267eb3f6fbf68d5d774d"
 
@@ -2396,11 +2408,6 @@ metafile = true
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
 hash = "e7260b27651d94e66d5e30ab126dfbfa4822a6c1e22440f0c1b58c6de4b6aa42"
-metafile = true
-
-[[files]]
-file = "mods/adorned.pw.toml"
-hash = "d31b7b20f6fa6a6844f66b0a47b27a7d4f448ae90d5ee6f6cd7c60b8e817fb48"
 metafile = true
 
 [[files]]
@@ -3391,6 +3398,26 @@ metafile = true
 [[files]]
 file = "mods/pagans-blessing.pw.toml"
 hash = "1210b4611f51168cbbe5e9de68be5fde023fc2208c0237e14eb834431a694d39"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-crops.pw.toml"
+hash = "84a4358b7fef498b59edfd5ff2c0692f31468a3573d2d46c1e5a9e3df6227f68"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "5b709a8de8e1ef072e8450a4bc2eedeae27908540fdbcce312522cb42c0c909a"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
+hash = "bcd3031c5010b49503c7fe7ed903511757b2592988400fb925a4ab11c866d55b"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-trees.pw.toml"
+hash = "913bff5c93d76ab287916d4f2e0844abbd7124f3dcc84d1c242e85f114e92066"
 metafile = true
 
 [[files]]
