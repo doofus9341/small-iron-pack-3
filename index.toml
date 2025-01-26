@@ -954,7 +954,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a61c1268120dbbab85eae1553e7bccbb47e2688514b74ad40565cba28e8d2ef2"
+hash = "ea140b7a1e2e486c0fe85097a6f24becb3624147bab68b914e27c2ff43e04114"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -3594,7 +3594,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "217b02818696e5a621b280b94f6cfeb8d5e0a0766d8bd8359cfe0d7b5ad59fbe"
+hash = "8a0701575bfad6aeca6d819aa0e864bf8a12bf68a873d11d56e6293aee2d6cfa"
 metafile = true
 
 [[files]]
