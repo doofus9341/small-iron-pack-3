@@ -64,7 +64,7 @@
 #Configurations related to recipes.
 [recipes]
 	#List of recipes that should not be added.
-	blacklist = []
+	blacklist = ["jaopca:storage_blocks.to_storage_block.draconic"]
 	#List of recipes by regex that should not be added.
 	regexBlacklist = []
 

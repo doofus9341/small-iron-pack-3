@@ -1,13 +1,13 @@
 name = "Integrated Crafting"
-filename = "integratedcrafting-1.21.1-neoforge-1.1.13-265.jar"
+filename = "integratedcrafting-1.21.1-neoforge-1.1.13-269.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "330b3bebf5551863522d0fcd1148eb8c2060a796"
+hash = "579b1e04bdc6619585a919959891b41ceb64125a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6061987
+file-id = 6125864
 project-id = 287357
