@@ -19,6 +19,44 @@
 	"always_aggro_below": -128.0,
 	// Pokemon stops running away if the hp is not full.
 	"stop_running_after_hurt": true,
+	// Pokemon with these natures are slightly more aggressive.
+	"aggressive_nature": [
+		"sassy",
+		"hardy",
+		"bold",
+		"impish",
+		"hasty"
+	],
+	// The aggression multiplier for natures above.
+	"aggressive_nature_multiplier": 1.0,
+	// Pokemon with these natures are much more aggressive.
+	"more_aggressive_nature": [
+		"brave",
+		"rash",
+		"adamant",
+		"naughty"
+	],
+	// The aggression multiplier for natures above.
+	"more_aggressive_nature_multiplier": 2.0,
+	// Pokemon with these natures are slightly more peaceful.
+	"peaceful_nature": [
+		"relaxed",
+		"lax",
+		"quiet",
+		"bashful",
+		"calm"
+	],
+	// The aggression multiplier for natures above.
+	"peaceful_nature_multiplier": -1.0,
+	// Pokemon with these natures are much more peaceful.
+	"more_peaceful_nature": [
+		"docile",
+		"timid",
+		"gentle",
+		"careful"
+	],
+	// The aggression multiplier for natures above.
+	"more_peaceful_nature_multiplier": -2.0,
 	// Forms that will always be aggressive
 	"always_aggro_aspects": [
 		"alolan"
@@ -73,12 +111,22 @@
 	"can_progress_use_move_evoluiton": true,
 	// Pokemons should be immune to suffocation damage? (cant die to wall damage, like when sand drops into them)
 	"suffocation_immunity": true,
-	// The damage wild pokemon would do on hit if it had 0 ATK
+	// Should player-owned pokemons be immune to damage from all players?
+	"pvp_immunity": true,
+	// Should player-owned pokemons be immune to damage from mobs on the same team?
+	"friendly_fire_immunity_team": true,
+	// Should player-owned pokemons be immune to damage from the owner (friendly fire)?
+	"friendly_fire_immunity_owner": true,
+	// The maximum damage bonus can get if it reached the maximum stat(the physical and the special moves both share one value currently)
+	"max_bonus_from_stat": 4.0,
+	// The minimum damage wild pokemon could do on hit
 	"minimum_attack_damage": 1.0,
-	// The damage wild pokemon would do on hit if it had reached the max stat
+	// The maximum damage wild pokemon could do on hit
 	"maximum_attack_damage": 10.0,
 	// Minimum damage multiplier player-owned pokemon would do
 	"minimum_attack_damage_player": 1.2000000476837158,
+	// Damage multiplier player-owned pokemon would do
+	"attack_damage_player": 1.2000000476837158,
 	// Maximum damage multiplier player-owned pokemon would do
 	"maximum_attack_damage_player": 1.2000000476837158,
 	// Attack stat required to reach the maximum damage,the default value is calculated with 50 level, 130 stat, 252 EVs, IVs of 31, and a helpful nature.
@@ -111,6 +159,8 @@
 	"maximum_ranged_attack_damage": 10.0,
 	// Minimum damage multiplier player-owned pokemon would do with ranged attacks
 	"minimum_ranged_attack_damage_player": 1.2000000476837158,
+	// Damage multiplier player-owned pokemon would do with ranged attacks
+	"ranged_attack_damage_player": 1.2000000476837158,
 	// Maximum damage multiplier player-owned pokemon would do with ranged attacks
 	"maximum_ranged_attack_damage_player": 1.2000000476837158,
 	// Special attack stat required to reach the maximum damage,the default value is calculated with 50 level, 130 stat, 252 EVs, IVs of 31, and a helpful nature.

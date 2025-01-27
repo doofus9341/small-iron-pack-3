@@ -97,6 +97,10 @@ file = "config/actuallyadditions-common.toml"
 hash = "a9f5807e8e787b959ceb7417c2aab8a902d9c1e6681de6fa0c298a96355c5de3"
 
 [[files]]
+file = "config/advanced_ae-common.toml"
+hash = "6390153efba2417108e71d099a6e2835ba472021197353aec52497700d42ba85"
+
+[[files]]
 file = "config/advancements_reloaded.toml"
 hash = "d32b76a96618e793d49d3a4f85ce845412935a5a90996f37cdfa85c479602d64"
 
@@ -954,7 +958,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a61c1268120dbbab85eae1553e7bccbb47e2688514b74ad40565cba28e8d2ef2"
+hash = "044f4e21774539bee8fd1274e048d869b01257cb590528a6e1015cd13f74e26d"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -1082,7 +1086,7 @@ hash = "3535071fa5cce6de6d899a9de90c5532241b51091efe99c4f48a32e6d2a92689"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "5d7756ce21f451620a1949dfdf6e598d383de0b644d7c6ab805196061d953b44"
+hash = "d08b5ae439dd0549e5d7dd8418b7f5724249a76d3d638e2c1967d8b249b1f0ba"
 
 [[files]]
 file = "config/cobblemonboxlink-server.toml"
@@ -1091,6 +1095,10 @@ hash = "878f64686664fc45d37ed908161560e8f8f8428d8c333e8b81a44dbaafe30e2d"
 [[files]]
 file = "config/cobbleride/config.json"
 hash = "68f3b3cecfd0a403be3b762355b981b4637edc73e05dbd9fba1b8bb73aab8817"
+
+[[files]]
+file = "config/cobbreeding/main.json"
+hash = "29f88d7995e55edc57429d1aa8aa0342a036b225305dc57c7d555cd1fee478c2"
 
 [[files]]
 file = "config/collective.json5"
@@ -1126,7 +1134,7 @@ hash = "db7bbdc89ab05070b2a4c22f6348b0c80aca4a3c449d92cdc6bc56b5af25ff7b"
 
 [[files]]
 file = "config/computercraft-server.toml"
-hash = "9eaf827304515cc6ec720cb24726ce46efeea1e936d2740b3f74ec1a624fce33"
+hash = "1f677e3c900b3794e854b8fd2427c95cd93229297b0f28dade83c9fc2878bb48"
 
 [[files]]
 file = "config/configured-client.properties"
@@ -1302,7 +1310,7 @@ hash = "0793f4dbd678de16269b05b78cb8aace3d497162526d10c61bd4b2c723240ea1"
 
 [[files]]
 file = "config/extremereactors/common.toml"
-hash = "03032d1ff18ffde91f6f16e5d2e3de9fb5a145eecfeb6c0b0305b8c24dab845c"
+hash = "c297887326615f03d6d4560c0a1c74f626b48b1888e51f20209db9bcb0418e57"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -1386,7 +1394,7 @@ hash = "7724615b78b3aada388fe595c05f6a3b9807e069f1aaf70c332e991434c45e57"
 
 [[files]]
 file = "config/fightorflight.json5"
-hash = "a6887a21ff0d36eeaecde0324c7658178448be47d7aa184faa97dbf8ce95b58a"
+hash = "198515f110dd408d5303d3c285298420785b8125266b5d238a8c10d407da7c8c"
 
 [[files]]
 file = "config/fightorflight_moves.json5"
@@ -1547,10 +1555,6 @@ hash = "5776f41e3f0d63e4e77a4367044ffd3cedcc6af7e05c59264d9711e0fea03931"
 [[files]]
 file = "config/invtweaksemuforipn/main-config.json"
 hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
-
-[[files]]
-file = "config/iris.properties"
-hash = "1802cabcbb1f664cffc4dade61fc74a0604295b8fbd436ef6bf6a7af522e29ee"
 
 [[files]]
 file = "config/ironfurnaces-common.toml"
@@ -1889,6 +1893,10 @@ file = "config/mcjtylib-server.toml"
 hash = "03449a8be28502236ea48f274ca2c6bcf443fd79c646a9ef9e5e9517376451a0"
 
 [[files]]
+file = "config/megacells-common.toml"
+hash = "bcda62c284c8c0e454cc69952b9887cb72f5135cdae86ac6fc0bae37ed63cdb9"
+
+[[files]]
 file = "config/mekanism_lasers-common.toml"
 hash = "da483e985c2e668da28d650065e28606ee6e5592f38a29d5655b067295380555"
 
@@ -1910,7 +1918,7 @@ hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "346518f981ea8271fdc6719c6e1d6d4939c7c5786eeb53c9ebe4e1c50ec90245"
+hash = "02f356f76c62c3ec67da2203b70aae313bb441cf7b3446c04958f5d3b1968ab4"
 
 [[files]]
 file = "config/modonomicon-client.toml"
@@ -2416,6 +2424,11 @@ metafile = true
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
 hash = "e7260b27651d94e66d5e30ab126dfbfa4822a6c1e22440f0c1b58c6de4b6aa42"
+metafile = true
+
+[[files]]
+file = "mods/advancedae.pw.toml"
+hash = "b42bd652bfeef27149462e5fe695bd99d98ab1c83a919bfacf51e5dce6caeea7"
 metafile = true
 
 [[files]]
@@ -3271,6 +3284,11 @@ metafile = true
 [[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "a4ec98ceb3daf6906e40f8b5288c066a87a025dff4fe3a50c87780baa3962e01"
+metafile = true
+
+[[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "5d637c52260a099a1e0239a5b7eaea6c6ae02810836c4579706da2b3df7f9ef0"
 metafile = true
 
 [[files]]
