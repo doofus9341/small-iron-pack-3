@@ -1,13 +1,13 @@
 name = "Cobbreeding"
-filename = "Cobbreeding-neoforge-1.8.3.jar"
+filename = "Cobbreeding-neoforge-1.8.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ItmVb4zY/versions/pd55FAlB/Cobbreeding-neoforge-1.8.3.jar"
+url = "https://cdn.modrinth.com/data/ItmVb4zY/versions/YZ6WUE8B/Cobbreeding-neoforge-1.8.4.jar"
 hash-format = "sha512"
-hash = "86f742b3add3694ab488240d7abfff4b43a9b798be699d004d311580a91f60553e1abd2f1729c242ab9367536736136c2b08ed9d62067e7b4b4172825e6f631d"
+hash = "57075f01c40be5f530325e29a248ffed38798775d08120196806d3ee30f1c36a0f01c5b20e3764d50aad33cf3a912598d031e730cfa4a5713e66b8185b4e8398"
 
 [update]
 [update.modrinth]
 mod-id = "ItmVb4zY"
-version = "pd55FAlB"
+version = "YZ6WUE8B"

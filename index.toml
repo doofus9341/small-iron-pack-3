@@ -6,7 +6,7 @@ hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
 
 [[files]]
 file = "README.md"
-hash = "863aeb0d92f804d2d850faac65bb0b7ea247049b856f3522823a9b9280d1073a"
+hash = "c1a4a5045323da2058f16b7c8425a3b258602bf8e344699112d7b6060d6f055a"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -954,7 +954,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "ea140b7a1e2e486c0fe85097a6f24becb3624147bab68b914e27c2ff43e04114"
+hash = "a61c1268120dbbab85eae1553e7bccbb47e2688514b74ad40565cba28e8d2ef2"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -2397,10 +2397,6 @@ file = "config/yungsmenutweaks-neoforge-1_21.toml"
 hash = "f03258dd68fab838e12affe9c56d7a558a808f0803458b657b77acdc84fd4915"
 
 [[files]]
-file = "icon.png"
-hash = "d84f4087f400a8911951d43e80c18b214be1d1595f8422c4f348b5dc622dc9cf"
-
-[[files]]
 file = "local/ftbchunks/client-config.snbt"
 hash = "dfed2acc3261b75cde582e09102504a8117279297f854aea959f5219930c0d00"
 
@@ -2564,7 +2560,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "8dfbb6d272199d2991ffba9d7149d65b252ea785d1eef520352f1d3f16e54b62"
+hash = "e280633479c30ed18a030f5503c0e2344d8f7a7241558f431da17c4014dc48ef"
 metafile = true
 
 [[files]]
@@ -2654,7 +2650,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "b8de6c0c997a54503f5c8b168b91a2b6a273d9faff96de7814a06df31d25f831"
+hash = "a292645eacc6a5e6a322796a436c4fb48af0fd4e0212eb3221f13f31785d44d3"
 metafile = true
 
 [[files]]
@@ -2664,7 +2660,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbreeding.pw.toml"
-hash = "afd1d8016e2a037be3df3edebef9cf9e9c904252a814f00f978195ad984bfc09"
+hash = "7a26ad16a823c9d4ca187ca54476daee32dfe292476ff358deef7d50ff2e6978"
 metafile = true
 
 [[files]]
@@ -2754,7 +2750,7 @@ metafile = true
 
 [[files]]
 file = "mods/cucumber.pw.toml"
-hash = "c850bd03a63e4092b4e03c5e519897c0bfa016af46d6210677fe232602c0877b"
+hash = "dbc6f8519c1778c39bd7aaae883a99295bf59d1e58cd66bfacba8b7ee1673b3d"
 metafile = true
 
 [[files]]
@@ -2964,7 +2960,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "18d945f32b952cbe60628bcda4c8e847e719e5d22a319336ece1d8d43331fc03"
+hash = "d14c491d3d6cee0c51feff0b6afac4cdec637218f3ce464b0de8cc69c01ffbd7"
 metafile = true
 
 [[files]]
@@ -3364,7 +3360,7 @@ metafile = true
 
 [[files]]
 file = "mods/mystical-agriculture.pw.toml"
-hash = "9602b597f23f39dd731cf2315c29313869d89c138c29d4f2d8b568f19f0feb6a"
+hash = "e525e1785bd0d4e61e51057411b75ea37ae0cfe225a3b9e78edeec92d64a0cac"
 metafile = true
 
 [[files]]
@@ -3599,7 +3595,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "e83a086c52c8331f9fdda4ce0f37e861c46b45908b10989c3c8d6d34e251fbe0"
+hash = "7ae634864a9066bfc58e9f96c50495bbc6fd8dff8fcff62b67309a40929223c7"
 metafile = true
 
 [[files]]
@@ -3841,3 +3837,7 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "a98d5abfe927c67e5237d003e4859c65f3afdc1d0dd73c623eb06a3a05dc4972"
 metafile = true
+
+[[files]]
+file = "server-icon.png"
+hash = "66bb00f10027f056a42dd782b5ad777a8e503623da1bc84e8ff9f9e75110e6da"
