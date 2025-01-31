@@ -61,8 +61,8 @@ key_key.silentgear.openItem:key.keyboard.x:
 key_key.curios.open.desc:key.keyboard.g:
 key_key.cobblemon.hideparty:key.keyboard.o:
 key_key.cobblemon.summary:key.keyboard.m:
-key_key.cobblemon.downshiftparty:key.keyboard.semicolon:
-key_key.cobblemon.upshiftparty:key.keyboard.apostrophe:
+key_key.cobblemon.downshiftparty:key.keyboard.apostrophe:
+key_key.cobblemon.upshiftparty:key.keyboard.semicolon:
 key_key.cobblemon.throwpartypokemon:key.keyboard.r:
 key_key.cobblemonboxlink.open_pc.desc:key.keyboard.backslash:
 key_framedblocks.key.update_cull:key.keyboard.f9:
