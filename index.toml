@@ -958,7 +958,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "918ffe120c5fc381e79fa2b6dbab3ec7455e2015c3d032ddf0533d600db35d2b"
+hash = "cc5dca21b078085a241689baa96a8f382b3372c84a39f992e13fdc5f0ac32857"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -1202,7 +1202,7 @@ hash = "7f84b4d37e39956dd57ed232b08453ea3c2c4578bdf1430d42b4e77a15024b75"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "8e532a3ec69e1fd1bed239ff4e11f533c806e6cde6bb90e1e277ad09469f233b"
+hash = "c65ad70d7cfcdd401cb58749633218fdcc51b3629a2b8f14e6b13db0d5d78618"
 
 [[files]]
 file = "config/dismountentity.json5"
@@ -2740,11 +2740,6 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "a489c33879941ccb524c52fb81927adf3d3c8b156064c7a5be5bf8dc8caf63c9"
-metafile = true
-
-[[files]]
-file = "mods/crafting-on-a-stick.pw.toml"
-hash = "4432564187779f29148c281f375dfb62a2382e0df82450cb39b42a79053dd096"
 metafile = true
 
 [[files]]
