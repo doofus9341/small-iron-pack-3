@@ -1,13 +1,13 @@
 #General settings
 [general]
-	#The CurseForge project ID for the modpack
+	#modpackProjectID is now deprecated and will be removed soon
 	# Default: 0
 	# Range: > 0
 	modpackProjectID = 0
 	#The name of the modpack
 	modpackName = "smallironpack3"
 	#The version of the modpack
-	modpackVersion = "1.2.2"
+	modpackVersion = "1.2.3"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false

@@ -1,7 +1,7 @@
 # Small Iron Pack 3
 **Minecraft Version**: 1.21.1
 
-**NeoForge Version**: 21.1.115
+**NeoForge Version**: 21.1.128
 
 ## Info
 A kitchen sink modpack for 1.21.1.

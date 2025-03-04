@@ -1,13 +1,13 @@
 name = "Productive Bees"
-filename = "productivebees-1.21.1-13.6.10.jar"
+filename = "productivebees-1.21.1-13.6.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0d4b9da6419f64ee3a5e61053e9916fa11be839b"
+hash = "86d71eb754d3f2a2d8504e8284291c1b1841bb8a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6143044
+file-id = 6154395
 project-id = 377897

@@ -1,13 +1,13 @@
 name = "Bridging Mod"
-filename = "BridgingMod-2.5.0+1.21.1.neoforge-release.jar"
+filename = "BridgingMod-2.6.1+1.21.1.neoforge-release.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "17d30d19d1b4998abebcc4f8a298ccefacfe43ed"
+hash = "24191b125927171d4e556de2f9a19f69373af88d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5786591
+file-id = 6176873
 project-id = 533942
