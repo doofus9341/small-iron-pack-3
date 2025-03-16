@@ -1,13 +1,13 @@
 name = "MoreCulling"
-filename = "moreculling-neoforge-1.21.1-1.0.4.jar"
+filename = "moreculling-neoforge-1.21.1-1.0.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "293b09c4205cfe882aadd296a25828f8f8e91549"
+hash = "f6f43344e0622ac05ad7aca5378ec35aad31ac30"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6175421
+file-id = 6292880
 project-id = 630104

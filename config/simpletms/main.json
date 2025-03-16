@@ -30,7 +30,6 @@
   "dropFromTmMoveList": true,
   "dropFromTutorMoveList": true,
   "dropFromEggMoveList": true,
-  "showPokemonThatCanLearnMove": true,
   "pokemonSortOrder": "ALPHABETICAL_ASC",
   "allowItemRemovalATOWNRISK": false
 }

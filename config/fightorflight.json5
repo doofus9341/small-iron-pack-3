@@ -3,6 +3,10 @@
 	"do_pokemon_attack": true,
 	// Do especially aggressive Pokemon attack unprovoked?
 	"do_pokemon_attack_unprovoked": false,
+	// If the aggressive pokemon will only attack unprovoked in the dark area.(similar to the spider in Minecraft,do_pokemon_attack_unprovoked needs to be set to true
+	"light_dependent_unprovoked_attack": true,
+	// If failed captures can be counted as provocation?
+	"failed_capture_counted_as_provocation": true,
 	// Do aggro Pokemon attack their targets even if they're in the middle of a battles?
 	"do_pokemon_attack_in_battle": false,
 	// The minimum level a Pokemon needs to be to fight back when provoked.
@@ -93,8 +97,10 @@
 	"allow_teleport_to_flee": true,
 	// Do player Pokemon defend their owners when they attack or are attacked by other mobs?
 	"do_pokemon_defend_owner": true,
-	// Do player Pokemon defend their owners proactively? (follows the same rules as Iron Golems)
+	// Do player Pokemon defend their owners proactively? (follows the same rules as Iron Golems!!!)
 	"do_pokemon_defend_proactive": true,
+	// Do player Pokemon defend their owners from Creepers proactively?(Iron Golems won't attack Creeper proactively.
+	"do_pokemon_defend_creeper_proactive": false,
 	// Can player Pokemon target other players? (EXPERIMENTAL)
 	"do_player_pokemon_attack_other_players": false,
 	// Can player Pokemon target other player's Pokemon? (EXPERIMENTAL)
@@ -109,8 +115,6 @@
 	"can_gain_ev": true,
 	// If the Pokemon can evolve by using the move out of a Pokemon Battle? For example Primeape can use Rage Fist 20x to evolve without a traditional Pokemon Battle.
 	"can_progress_use_move_evoluiton": true,
-	// We don't use this attribute, but some other mods use. However, I uses a mixin to add this attribute and it might lead to some conflicts about attributes. Set to false if that happens.
-	"add_attack_damage_attribute": true,
 	// Pokemons should be immune to suffocation damage? (cant die to wall damage, like when sand drops into them)
 	"suffocation_immunity": true,
 	// Should player-owned pokemons be immune to damage from all players?
@@ -179,8 +183,8 @@
 	"poison_type_no_effect_dmg_multiplier": 0.10000000149011612,
 	// If the original updateMaxHealth() will be replaced by my version. Pokemons outside of battle will use the hp stat instead of the base hp stat. The following configurations needs this one to work.
 	"shouldOverrideUpdateMaxHealth": true,
-	// If health sync will work on the wild pokemon, healing them on standard pokemon battle start if they were damaged before.
-	"health_sync_for_wild_pokemon": true,
+	// If health sync will work on the wild pokemon, set to false will heal them on standard pokemon battle start if they were damaged before.
+	"enable_health_sync_for_wild_pokemon": false,
 	// The minimum hp of a pokemon outside standard pokemon battle,shedinja is set to 1.0 and can't be changed.
 	"min_HP": 8,
 	// The medium hp value of a pokemon outside standard pokemon battle,the medium value is designed to allow you to better tweak the growth of HP value for the entity
