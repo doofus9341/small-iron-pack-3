@@ -6,7 +6,7 @@ hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
 
 [[files]]
 file = "README.md"
-hash = "ad171f12bb5741b5f663de43b122283793dcfef94ca811b8d974b2d512f51ff9"
+hash = "a928abfe8ae2ed2dea887405646974df1940031547a4fdc0865e0b547b867c02"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -38,7 +38,7 @@ hash = "87c1277f6d6482fe60deea64e73b3de019c65c7b4b7d0ef08c79f0ab3db95173"
 
 [[files]]
 file = "config/Mekanism/general.toml"
-hash = "e381509b0519082578b3e2305e5bbf512860a20da96cde91271cb7f05339dbcf"
+hash = "981ce7e1fa2710a5f04afa2b4c51a9087ff7ac41359499cac477fab61a3cc1bd"
 
 [[files]]
 file = "config/Mekanism/generator-storage.toml"
@@ -50,7 +50,7 @@ hash = "a1cabe21624e576f52a5586c0940ebab86b5301ba5f2b318dbc4e353206e58e6"
 
 [[files]]
 file = "config/Mekanism/generators.toml"
-hash = "d0aa88a35c05ddaeb18c588c234a3808667ab8075e77a6d1be24a6ad95c7b88a"
+hash = "047feff0eb690392487a3e36adaced8849d50f3d5695deb87d8d1cfdf792a144"
 
 [[files]]
 file = "config/Mekanism/machine-storage.toml"
@@ -1090,7 +1090,7 @@ hash = "3535071fa5cce6de6d899a9de90c5532241b51091efe99c4f48a32e6d2a92689"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "4e40080c4c6be9fd2859ca50fe2c306897421769edc8210631438c5a7317d6b6"
+hash = "d08b5ae439dd0549e5d7dd8418b7f5724249a76d3d638e2c1967d8b249b1f0ba"
 
 [[files]]
 file = "config/cobblemonboxlink-server.toml"
@@ -1573,16 +1573,8 @@ file = "config/integratedtunnels-common.toml"
 hash = "5ad9d1e520a9848c16218345a89cf755af0089384f5f2baa9f178d85034b486d"
 
 [[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
-file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "f30167bc6670a192e8eaf5b85c4d683a71b0aa9c87dcb671160dfdbb891ade70"
-
-[[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "5776f41e3f0d63e4e77a4367044ffd3cedcc6af7e05c59264d9711e0fea03931"
+file = "config/invtweaks-client.toml"
+hash = "2a9a897f047cc94623c3da03cdf0d9094d0e560c94490f80275c98a13a58c2f7"
 
 [[files]]
 file = "config/invtweaksemuforipn/main-config.json"
@@ -1662,7 +1654,7 @@ hash = "f8709df662df0670130301fbca88848bda8ada94fe64c07f21da1795f0986b7c"
 
 [[files]]
 file = "config/irons_spellbooks-server.toml"
-hash = "4a5c76c32343ff848f8682793940f5de814a404f4d346be5b440fcfff8214dfb"
+hash = "49331955f867a728534756ae055116618935740cc12b0c6b08a5699aa64a782b"
 
 [[files]]
 file = "config/itemcollectors-common.toml"
@@ -2290,7 +2282,7 @@ hash = "c298f506a9243beba0f3a3ca52199dc8058ac6d1e5357a533549bfd18fbdc63e"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "f18da8e11bb9d3f460ce86a8f4834b99551967445dce77702330573d867aebbf"
+hash = "761a9e4e3b5cb9cc89c49e0ee8715527045a4b4796e6fd091c634242d24fd835"
 
 [[files]]
 file = "config/sophisticatedstorage-client.toml"
@@ -3185,13 +3177,8 @@ hash = "39f60f29db0df97573228919162e2609368f3a348c5eb60f38b73983c5168be7"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "553f08e2ce780a67852da2f6ebc9463fb02ae79faab00c3ce968d58c545ea506"
-metafile = true
-
-[[files]]
-file = "mods/invtweaks-emu-for-ipn.pw.toml"
-hash = "cbb3f3b1adca0f362557297d7fa2574e6850656c0ade5ee4c8d275d8b5e8c9f5"
+file = "mods/inventory-tweaks-refoxed.pw.toml"
+hash = "046ce02f3e29d83efeb82812d5d6848a00b032f823baf0a77481baca085d9ddc"
 metafile = true
 
 [[files]]
