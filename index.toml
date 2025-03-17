@@ -110,7 +110,7 @@ hash = "c003fb3ac64c789cea15fd44a8f19d1f4f0c925758d376406472294f16a5b52d"
 
 [[files]]
 file = "config/ae2-common.toml"
-hash = "d5bb325da6d3dbaf0015cf02fbd2d708c22fe761232d2b9bb2112e1f187458d2"
+hash = "4d1be8eb1805562c6682c36868d6d9c2df2524383fbd8a456e2f78d718c38b3e"
 
 [[files]]
 file = "config/ae2wtlib.toml"
@@ -134,7 +134,7 @@ hash = "9c4f6bceaa59e78ae4188bd8e9049141f80c1adf02313b5c585d838eafb2ab27"
 
 [[files]]
 file = "config/ars_additions-server.toml"
-hash = "5e4d74f766f20f77565ad3099161bf1247d0e9b3b340e0136b4aede2ff25c93d"
+hash = "7ea8ce2241eccead999dae0fdd5fbdf6584649d2cc3f21bc5a07e63a0c55866c"
 
 [[files]]
 file = "config/ars_additions/glyph_mark.toml"
@@ -1162,7 +1162,7 @@ hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "bfff07d439bfb849ff37911fba9c3b6d391e8e2246bea8271131f9eaee61c53d"
+hash = "f6c4451ea46842d7e8adde0405b1c76ea3b9d7a22ecf92ee5cd8ce3c53f0d91f"
 
 [[files]]
 file = "config/creeperoverhaul.jsonc"
@@ -1654,7 +1654,7 @@ hash = "f8709df662df0670130301fbca88848bda8ada94fe64c07f21da1795f0986b7c"
 
 [[files]]
 file = "config/irons_spellbooks-server.toml"
-hash = "49331955f867a728534756ae055116618935740cc12b0c6b08a5699aa64a782b"
+hash = "9b12f47b333095ab13a2a50a6a99301e8d9799f1d0ccc498ab013e52d2699438"
 
 [[files]]
 file = "config/itemcollectors-common.toml"
@@ -1894,7 +1894,7 @@ hash = "e9d2d5caac82118c45b2b3cd915318d35999bc3580d96931ccba2a73518e85d7"
 
 [[files]]
 file = "config/letmedespawn.json"
-hash = "58e3442cb7ba28e81907fda6b2f1530dd7dd1d5d91ede7ef2ad7451ae22a4af0"
+hash = "6af411644e22ede34383135509cb96b2a636d8ed45494b28976514a95537105e"
 
 [[files]]
 file = "config/lithium.properties"
@@ -1950,7 +1950,7 @@ hash = "a189a7fea65b50f1a7d63e74561d2440f920a0ade48ae2d4b35ffb13c4e477fd"
 
 [[files]]
 file = "config/modern_industrialization.toml"
-hash = "37d327494094af01da6b61d57cef4dccdbf22fed23b1fc92d4f712daeae79a87"
+hash = "4b1b4023b57b4abe6e2fa6a063419f57ff4cb679f715100bb489164c7656bf34"
 
 [[files]]
 file = "config/modernfix-common.toml"
@@ -2548,7 +2548,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-additions.pw.toml"
-hash = "ad1b1956a1780c5f6dc8364a95e50413121247133f811bf70f282da28bd3d28b"
+hash = "00188965d53dcca9f9fb5a58b66f147694d9a21235f2eb78420e03ee484e0113"
 metafile = true
 
 [[files]]
@@ -2563,7 +2563,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "796a1b87ade6b2ff759c5c7d47d99568e22362731cc858d61fa60db737eacc06"
+hash = "7342f4a664ae9d353d369a204990f4ff667d5c2e797b74e17d5317362522ab2b"
 metafile = true
 
 [[files]]
@@ -3133,7 +3133,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "955d448d145c951ce5ae2c2f894f637e6376af2a695694e6559fc4ca103c093e"
+hash = "e1bc5166b52a83c691dc5faf4e4040aa0327b988628b9bd74d0d917f37e97f47"
 metafile = true
 
 [[files]]
@@ -3203,7 +3203,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "4d90695280d1563965665f6b8cace9b60df039c7d41ac7547d02786e35701442"
+hash = "83fc896b330e8ac4f152c8c8ec609f07c6aa12eaa92e694ada1ac188bbbe2d4a"
 metafile = true
 
 [[files]]
@@ -3318,7 +3318,7 @@ metafile = true
 
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
-hash = "fb1b24ea980e4853bae9bf5c763dcc6c149d3246b5d8f4cbed4d5152caaef7a0"
+hash = "dd4dd28e505ef8a6dae0569c92b03732302094e952068db010924fe945a27170"
 metafile = true
 
 [[files]]
@@ -3343,7 +3343,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "a4ec98ceb3daf6906e40f8b5288c066a87a025dff4fe3a50c87780baa3962e01"
+hash = "797eb889d80cfe8330f364f489a2de56dc74dc5fa4bfc6cf7b3934510efbfefe"
 metafile = true
 
 [[files]]
@@ -3493,7 +3493,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "4e907f6a193bd141cf0a0012fc3655b1e1b390b72f938cce01cec1327a13a0e5"
+hash = "d70e7fa2d9d90600ddca5e80444140165e03da3040978c58c7cc5a7f133d075f"
 metafile = true
 
 [[files]]
@@ -3593,7 +3593,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "0853223556788be1f89401a2662b2e3945528665198403d76e7d5a2de64b743c"
+hash = "4c34b711b80bdb1638327927a4cb47e539b3897c26c8f36a1bf5fb588dcddde9"
 metafile = true
 
 [[files]]
@@ -3638,17 +3638,17 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-base.pw.toml"
-hash = "dd980866f9d29405733da4c70bdda58b5b061a9af3893e0b1bbd049ece21e2a0"
+hash = "9ab6bf07c80b9e30bcb45e975d37d1d4acc79e6f5cf6e7d1286f844a197d9c53"
 metafile = true
 
 [[files]]
 file = "mods/rftools-builder.pw.toml"
-hash = "d254fb95f388eec0fc7323c82c269969579a3785bf034d6b2585cc6f3306d316"
+hash = "b64a252d2ec710ddc14446adaa705e48bf8c09a94e0c17e9db7212b4c6fe6822"
 metafile = true
 
 [[files]]
 file = "mods/rftools-power.pw.toml"
-hash = "b6965a5f77b9067bbc1fab15d16c6fb98b8d4f544ec74be75ab53e4b48f17bde"
+hash = "63a4fa118a8cf85ae6e15e35f1ba31ac010abbbc7843187229217777d045abcb"
 metafile = true
 
 [[files]]
@@ -3848,7 +3848,7 @@ metafile = true
 
 [[files]]
 file = "mods/xnet.pw.toml"
-hash = "9543eff6bd9bd556862db20e7ad6de48faf18952035cab76d782809991b93a42"
+hash = "eb7701ad3bb5e5ec6aba04636bcba32536c003ce1b2e40aae9d539c96a367ae0"
 metafile = true
 
 [[files]]

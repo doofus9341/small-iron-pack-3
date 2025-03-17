@@ -1,7 +1,7 @@
 [general]
 	unsupportedDeveloperTools = false
 	#Enables the ability of the Matter Cannon to break blocks.
-	matterCannonBlockDamage = true
+	matterCannonBlockDamage = false
 	#Enables the ability of Tiny TNT to break blocks.
 	tinyTntBlockDamage = true
 	#Changes the channel capacity that cables provide in AE2.
