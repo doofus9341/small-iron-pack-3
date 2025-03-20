@@ -962,7 +962,7 @@ hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "9a060bbda92d29bcd8720cb3c2c4b69decf19a1408334a44da8453e212bfc7b4"
+hash = "ef340e1dd6854606a6637f2c0de5544312943f0cccfc3402157bb7bed0f12055"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -1674,11 +1674,11 @@ hash = "f9f68a1557cdfab8394d2f4b54a2756d96451dcdddea4f5e04cb912b516ffa05"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "7f1657670f0136f6ec77a7688dde3c859cd0766b6cd79acd171f071b92779aff"
+hash = "301ee4858294509209cb08327cee4226a936b00eec3cc9cfb5272562f49a4364"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "c391b6ac65210e2353fbe96ac9667103df3232f9a466b40cde50ce20be77e2ca"
+hash = "92ada5c79320239ee94286dcc572c725daba0a1b4c03f131977afc3b5ae4aac2"
 
 [[files]]
 file = "config/jamd/end.json"
@@ -1842,7 +1842,7 @@ hash = "b43c3d68a6ada30ad2e3864a00ba4b4cd7f94fe1bd1df20bf89c48d9ecde1b4c"
 
 [[files]]
 file = "config/jmi-client.toml"
-hash = "b878b0d81ff300055df427c5a58f10243ebfda5989bb2cf5eaba16a17a21d8d4"
+hash = "f473f76bb6d601d26417353a817838fc814426b6eec23c6fb5f4a1ddfaf8c195"
 
 [[files]]
 file = "config/journeymap-server.toml"
@@ -2414,7 +2414,7 @@ hash = "14c10834e86f2b05dba7fbf16351344dbd73e31f8a2f172a7d2c1122e9aab407"
 
 [[files]]
 file = "config/watut-client.toml"
-hash = "752d0ac238cfe92f30055ec8e417c98c309b07cd30467c22b16c90dc86cf228e"
+hash = "54ed0dfb34e6836aedaebb1a94a1fab6586e0441714fe19d4b2fdb669490dbb0"
 
 [[files]]
 file = "config/watut-common.toml"
@@ -2423,6 +2423,10 @@ hash = "93d4055b22552b80ae5f96d396b335910993ab7010b562a34291adade59df4f6"
 [[files]]
 file = "config/watut-item-arm-adjustments.json"
 hash = "c3f6428a4b3f952eb3fcd29dc370f270b97dc720bf0806d1e660d11ff2327051"
+
+[[files]]
+file = "config/watut-server.toml"
+hash = "15fe072e55efd0d8c73e4995d1b693750f02d0f248c58ac7363399448c553e8d"
 
 [[files]]
 file = "config/waveycapes.json"
@@ -2533,7 +2537,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "eafb53f80710fe8309f94ba4530cdd2ab86d41d9ffcc4e0f743cfbf46d8723a4"
+hash = "f76fa7ef7877fc0f8e92320c48ec787a949519cf447d3cb9d5055b4d36c559c3"
 metafile = true
 
 [[files]]
@@ -2563,7 +2567,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "7342f4a664ae9d353d369a204990f4ff667d5c2e797b74e17d5317362522ab2b"
+hash = "92f8ba0ce42a570dac49d5443f6e095cb2b7123ca2fdd89dcc3b5980f7a420c4"
 metafile = true
 
 [[files]]
@@ -2608,7 +2612,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "431f7c97b30f25d7ce399651153c3049c5f0300714e3ab933448bf4dccf2dc9e"
+hash = "48eed25fa2cb28794a8a2ed2046d0144867e59f8c73826b16a884ea99ffe9901"
 metafile = true
 
 [[files]]
@@ -2698,7 +2702,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-box-link.pw.toml"
-hash = "7178b47762e07640e23eb2e0cc0ecae7b410afe3c14557c302997e89c7b754bf"
+hash = "3a7fda842b0ccd76880b2c068c860e6f6efc1d1ded98a2affc27423b66ff04ce"
 metafile = true
 
 [[files]]
@@ -2753,7 +2757,7 @@ metafile = true
 
 [[files]]
 file = "mods/common-capabilities.pw.toml"
-hash = "a9e3c5cfd55eb5c1c366b2b085e3bdd2897a562861d587149e2e1d8aeed28fb1"
+hash = "90dc6b1d2eae847a991d49330c66b1dc1c3af66c8c505bd9fd02a8ac9ac04fa0"
 metafile = true
 
 [[files]]
@@ -2793,7 +2797,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "db80554e5b4457c54b666b445f9aa9e5cf5635d406518e657cab777a00e6ef5e"
+hash = "b3e1e88fae7462809ceaef7394e36c01bf422bbd939aa7393fa4f3a9cd5b0fe6"
 metafile = true
 
 [[files]]
@@ -3073,7 +3077,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "be0a21825ab5979de751e029b4c23ce5fac6000f2b05d8805b2761eb832c5f33"
+hash = "52ed74d80811669197b9297bb201800d620c0d66789f86e819adf4f465251805"
 metafile = true
 
 [[files]]
@@ -3158,7 +3162,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "a39185f63bb40a58aee7766e5827af0e6ada6c226c8c37f7c89d4066031d71b3"
+hash = "3cc56b982ba11e2902a98520993e4603ae4d9693f465ec0c19f96a5562ab0806"
 metafile = true
 
 [[files]]
@@ -3173,7 +3177,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-tunnels.pw.toml"
-hash = "39f60f29db0df97573228919162e2609368f3a348c5eb60f38b73983c5168be7"
+hash = "8ca2f3a13880f789ab7934ce2f4a27ba438b4157e25b48863ca2cb803f80caf8"
 metafile = true
 
 [[files]]
@@ -3218,7 +3222,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "70003b53266205ae463424409825870b2357f651abda07a17fa9b80a442b5a6e"
+hash = "89420f657cec1038646f75531ae388e92d27c51c84b1f121e935ae5aecf995be"
 metafile = true
 
 [[files]]
@@ -3253,12 +3257,12 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap-integration.pw.toml"
-hash = "94d2c483ed13e9684a7c9b799833ba69dcfe9ba9194b8670dde3af03c16f718c"
+hash = "bf3abd07949d9d5edda2147c042b77279a0c2b8a603bb1918ce7efb6e557235d"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "b8be6050189102afd8ecdfc582c960e5cba9df59d27c927d382860586bd657af"
+hash = "5d2bf7a1f4b47ae7d124029d62e04b43c843be118376d154f7bdc2372afc094a"
 metafile = true
 
 [[files]]
@@ -3343,7 +3347,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "797eb889d80cfe8330f364f489a2de56dc74dc5fa4bfc6cf7b3934510efbfefe"
+hash = "ee601c12628cbc673b0ce220012e98bf5b9f3fe1d3db11593a1f555201c24702"
 metafile = true
 
 [[files]]
@@ -3673,7 +3677,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "261f47d30ce683ad9f8187fa611c141ecf7b5416729942ec43d0f9cc7bf629df"
+hash = "76cdd9f4712b4860a5589eeddb3ef8af5f1e51256eda32b0e38f8a91bcef3fdb"
 metafile = true
 
 [[files]]
@@ -3738,7 +3742,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "4921b5e1627cf9660decd945d6c9e1305729c22f8362e0be6eea87faf7224a73"
+hash = "e5896b4f251df5b819f355bf38dbcaf7ec6a48d9d629fa6b24780b5c7d2544a1"
 metafile = true
 
 [[files]]
@@ -3768,7 +3772,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "fbba860233c23cd5964c83a88baacee73ebf49d5c1c947f949180663fad8443b"
+hash = "44efdbd04db1c8de1edaa5c3d809591029e1d36bea794bf560e6efaf35c7ba47"
 metafile = true
 
 [[files]]
@@ -3778,7 +3782,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract-api.pw.toml"
-hash = "f92c73c488b28ff0f181258f6fbfd38e674671478252364ba6310c3a169cd6ff"
+hash = "c9e392563a7ed01afefc132c7fc5b4ad4524faad08e0f432b7d089a049a01830"
 metafile = true
 
 [[files]]
@@ -3833,7 +3837,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "378e95a75af897c1094c8ee6ccb17fa87fd9133cd5c03ecb1e45ac9131bcc839"
+hash = "4fa1fc9965a7ccc088d2b8d8ffdca577c7ae7a1f163636dbef9c07614ef5e192"
 metafile = true
 
 [[files]]
@@ -3868,7 +3872,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "69aaced0370fb3bc13d316228459b3a974d5f7df1e95d088be91e6fc3eeb9580"
+hash = "6183099f1a9752a330400b3bfa57050fcfd00406cfddf3deb9a503b9981cf34e"
 metafile = true
 
 [[files]]
