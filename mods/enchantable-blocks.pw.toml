@@ -1,13 +1,13 @@
 name = "Enchantable Blocks"
-filename = "EnchantableBlocks-1.21.1-0.1.5.jar"
+filename = "EnchantableBlocks-1.21.1-0.1.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8d06ad071499b637f938112edefaed7b0cc421fa"
+hash = "7359ce0271852a021652da6dcb7f33c9f6b2aca7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6084555
+file-id = 6381836
 project-id = 1001871

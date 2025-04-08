@@ -159,6 +159,10 @@
     "overclock": true,
     "pipe": true
   },
+  "occultism": {
+    "foliot": true,
+    "sacrificial": true
+  },
   "balm": {
     "jade": true
   },
