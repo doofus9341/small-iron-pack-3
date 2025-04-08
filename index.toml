@@ -6,7 +6,7 @@ hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
 
 [[files]]
 file = "README.md"
-hash = "a928abfe8ae2ed2dea887405646974df1940031547a4fdc0865e0b547b867c02"
+hash = "b9907516469cf6d242b41000e92dfb1400da846fc8eae6fdb74c0d758ba3bb8f"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
