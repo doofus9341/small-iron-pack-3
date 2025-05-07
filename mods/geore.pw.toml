@@ -1,13 +1,13 @@
 name = "GeOre"
-filename = "GeOre-1.21.1-6.0.5.jar"
+filename = "GeOre-1.21.1-6.0.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "98dbf68f6a58bd807925edcf9847894c318fedd0"
+hash = "5d9137433ed2ecb8c043228ca395a8b1347935cc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6276828
+file-id = 6490978
 project-id = 530544

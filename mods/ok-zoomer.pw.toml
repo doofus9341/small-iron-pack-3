@@ -1,13 +1,13 @@
 name = "Ok Zoomer - It's Zoom!"
-filename = "ok_zoomer-neo-10.0.0-beta.9.jar"
+filename = "ok_zoomer-neo-10.0.0-beta.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8de2689ced856518a42ab6de992732690a94c6dd"
+hash = "265d5d762ed50f5d506c7160f83c22000aa13df4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6381142
+file-id = 6404035
 project-id = 354047

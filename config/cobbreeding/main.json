@@ -14,5 +14,11 @@
   "dittoAndDittoAllowUltraBeast": false,
   "dittoAndDittoAllowUndiscovered": false,
   "customColors": true,
-  "allowHoppersToPullFromPastureBlock": true
+  "allowHoppersToPullFromPastureBlock": true,
+  "blacklistedAspects": [
+    "shiny",
+    "male",
+    "female",
+    "sheared"
+  ]
 }
