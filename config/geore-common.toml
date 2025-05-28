@@ -22,6 +22,8 @@
 	generateRedstoneGeore = true
 	#Disable piston push for budding GeOre (Overrides the vanilla behavior of breaking the block upon being pushed) [Default: false]
 	disablePistonPushForBuddingGeOre = false
+	#Generate Budding Ancient Debris [Default: true]
+	generateBuddingAncientDebris = true
 
 #Modded Generation settings
 [ModdedGeneration]
@@ -33,3 +35,27 @@
 	generateTopazGeore = false
 	#Generate Zinc GeOre [Default: false]
 	generateZincGeore = false
+	#Generate Uraninite GeOre [Default: false]
+	generateUraniniteGeore = false
+	#Generate Black Quartz GeOre [Default: false]
+	generateBlackQuartzGeore = false
+	#Generate Monazite GeOre [Default: false]
+	generateMonaziteGeore = false
+	#Generate Aluminum GeOre [Default: false]
+	generateAluminumGeore = false
+	#Generate Lead GeOre [Default: false]
+	generateLeadGeore = false
+	#Generate Nickel GeOre [Default: false]
+	generateNickelGeore = false
+	#Generate Osmium GeOre [Default: false]
+	generateOsmiumGeore = false
+	#Generate Platinum GeOre [Default: false]
+	generatePlatinumGeore = false
+	#Generate Silver GeOre [Default: false]
+	generateSilverGeore = false
+	#Generate Tin GeOre [Default: false]
+	generateTinGeore = false
+	#Generate Tungsten GeOre [Default: false]
+	generateTungstenGeore = false
+	#Generate Uranium GeOre [Default: false]
+	generateUraniumGeore = false

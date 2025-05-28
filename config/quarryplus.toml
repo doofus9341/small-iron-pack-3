@@ -14,6 +14,8 @@ enableChunkLoader = true
 rebornEnergyConversionCoefficient = 0.0625
 #Enable Custom player mode. Default: false
 customPlayer = false
+#Remove Minecart with Chest when processing blocks. Default: true
+removeMinecartWithChest = true
 
 [enableMap]
 	#pump_module Default: true

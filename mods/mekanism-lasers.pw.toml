@@ -1,13 +1,13 @@
 name = "Mekanism Lasers"
-filename = "MekanismLasers-1.12.1-1.1.10.1.jar"
+filename = "MekanismLasers-1.12.1-1.1.10.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9689ebb25a895cc471dc152133097cadee743052"
+hash = "5328bd8e1ed3e3b04b53e761c1291e4336167404"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6300031
+file-id = 6516131
 project-id = 1060096
