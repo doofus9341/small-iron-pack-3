@@ -8,3 +8,13 @@
 	blacklist = []
 	#List of infuse type tags that should be considered as defined.
 	customDefined = []
+
+[tags]
+	#Should the module mainly use c:dirty_dusts instead of mekanism:dirty_dusts.
+	commonDirtyDust = true
+	#Should the module mainly use c:clumps instead of mekanism:clumps.
+	commonClump = true
+	#Should the module mainly use c:shards instead of mekanism:shards.
+	commonShard = false
+	#Should the module mainly use c:crystals instead of mekanism:crystals.
+	commonCrystal = false

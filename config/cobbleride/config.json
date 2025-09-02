@@ -14,7 +14,8 @@
     "switchToThirdPersonOnMount": true,
     "switchToFirstPersonOnDismount": true,
     "dismountCombinationKey": "SNEAK",
-    "useCameraNavigation": false
+    "useCameraNavigation": false,
+    "useDebugKeys": false
   },
   "common": {
     "canDismountInMidair": false

@@ -22,16 +22,52 @@
 #Configurations related to material overrides.
 [materialOverrides]
 	#List of materials that should be gems.
-	gem = ["diamond", "emerald", "lapis", "prismarine", "quartz", "fluorite", "uranite", "prosperity_shard"]
+	gem = [
+		"diamond",
+		"emerald",
+		"lapis",
+		"prismarine",
+		"quartz",
+		"fluorite",
+		"uranite",
+		"prosperity_shard"
+	]
 	#List of materials that should be crystals.
 	crystal = []
 	#List of materials that should be dusts.
-	dust = ["glowstone", "redstone", "inferium", "prudentium", "tertium", "imperium", "supremium", "netherite", "sulfur", "saltpeter"]
+	dust = [
+		"glowstone",
+		"redstone",
+		"inferium",
+		"prudentium",
+		"tertium",
+		"imperium",
+		"supremium",
+		"netherite",
+		"sulfur",
+		"saltpeter"
+	]
 
 #Configurations related to item selection.
 [itemSelection]
 	#List of mods that are preferred when selecting items in recipes.
-	preferredMods = ["minecraft", "mekanism", "occultism", "modern_industrialization", "xycraft_world", "xycraft_machines", "mysticalagriculture", "forbidden_arcanus", "ae2", "enderio", "actuallyadditions", "mob_grinding_utils", "justdirethings", "immersiveengineering", "oritech"]
+	preferredMods = [
+		"minecraft",
+		"mekanism",
+		"occultism",
+		"modern_industrialization",
+		"xycraft_world",
+		"xycraft_machines",
+		"mysticalagriculture",
+		"forbidden_arcanus",
+		"ae2",
+		"enderio",
+		"actuallyadditions",
+		"mob_grinding_utils",
+		"justdirethings",
+		"immersiveengineering",
+		"oritech"
+	]
 
 #Configurations related to block tags.
 [blockTags]
@@ -64,7 +100,9 @@
 #Configurations related to recipes.
 [recipes]
 	#List of recipes that should not be added.
-	blacklist = ["jaopca:storage_blocks.to_storage_block.draconic"]
+	blacklist = [
+		"jaopca:storage_blocks.to_storage_block.draconic"
+	]
 	#List of recipes by regex that should not be added.
 	regexBlacklist = []
 
@@ -82,6 +120,8 @@
 [data]
 	#List of data modules that should not be registered.
 	moduleBlacklist = []
+	#List of custom tag entries to add. Use "item" as registry for item tags, "fluid" for fluid tags, etc. Format: "registry#namespace:entry=namespace:tag"
+	customTags = []
 
 #Configurations related to color generation.
 [colors]

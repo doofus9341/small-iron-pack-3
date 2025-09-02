@@ -16,6 +16,10 @@ rebornEnergyConversionCoefficient = 0.0625
 customPlayer = false
 #Remove Minecart with Chest when processing blocks. Default: true
 removeMinecartWithChest = true
+#Range of Flexible Marker. Default: 256, Min: 16, Max: 16777216
+flexibleMarkerRange = 256
+#Range of Marker Plus. Default: 256, Min: 8, Max: 1048576
+markerPlusRange = 256
 
 [enableMap]
 	#pump_module Default: true

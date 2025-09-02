@@ -1,13 +1,13 @@
 name = "Not Enough Glyphs"
-filename = "not_enough_glyphs-1.21.1-4.2.0-pre2.jar"
+filename = "not_enough_glyphs-1.21.1-4.2.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b1f56bae7d48a9c60612694ceea18c543240eff0"
+hash = "bc6d2f236fc1afc3d64ad4a9576c7b7e79cd5647"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6606651
+file-id = 6784398
 project-id = 1023517
