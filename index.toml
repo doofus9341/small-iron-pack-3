@@ -2393,7 +2393,7 @@ file = "config/yungsmenutweaks-neoforge-1_21.toml"
 hash = "f03258dd68fab838e12affe9c56d7a558a808f0803458b657b77acdc84fd4915"
 
 [[files]]
-file = "kubejs/assets/en_us.json"
+file = "kubejs/assets/compactmachines/lang/en_us.json"
 hash = "28caf8d8db955590859c677f4c761e549c938e45a0e2bde61077186802647ca7"
 
 [[files]]
