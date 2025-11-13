@@ -59,3 +59,9 @@
 	generateTungstenGeore = false
 	#Generate Uranium GeOre [Default: false]
 	generateUraniumGeore = false
+	#Generate Allthemodium GeOre [Default: false]
+	generateAllthemodiumGeore = false
+	#Generate Vibranium GeOre [Default: false]
+	generateVibraniumGeore = false
+	#Generate Unobtainium GeOre [Default: false]
+	generateUnobtainiumGeore = false

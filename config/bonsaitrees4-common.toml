@@ -5,6 +5,8 @@
 	showUnknownLootConditions = false
 	#Show unused soil recipes in JEI
 	showUnusedSoilRecipesInJEI = false
+	#Show rolls as count in JEI
+	showRollsAsCountInJEI = false
 
 [gameplay]
 	#The base number of ticks it takes for a bonsai tree to grow.
@@ -23,3 +25,5 @@
 	# Default: 0.3333333432674408
 	# Range: 0.0 ~ 1.0
 	toolDamageChance = 0.3333333432674408
+	#If true, indestructible tools (like those from Mystical Agriculture) can be used in bonsai pots.
+	toolAllowIndestructible = true

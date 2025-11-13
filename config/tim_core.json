@@ -3,6 +3,12 @@
   "enableExpAll": true,
   "forceExpAll": false,
   "addBucketToData": true,
+  "addSpawnCauseToData": true,
   "preventQuickBallSpam": true,
+  "spawnBlacklist": [],
+  "spawnWhitelist": [],
+  "pokemonEntitiesAreInvulnerable": false,
+  "reservedPokemonEntitiesAreInvulnerable": true,
+  "requirePartyToFishPokemon": false,
   "debug": false
 }
