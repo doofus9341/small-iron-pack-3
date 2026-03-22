@@ -1094,7 +1094,7 @@ hash = "9ddede6cc42a2370eb16af7132d56138ca83357c74b4079b6ed4c885d4b46841"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2044722f1f2708e648971b9427614e62635a894763cb643318e6bcbe5b81e4dd"
+hash = "983e809415dfe897a8add33a52414e368c5eb91334934ff1e86e3df80c931626"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
@@ -1418,7 +1418,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "e362b1f7ca1d1e7488e2af58e725891f8206ae57aa04e0c46c2b35b00cb7c494"
+hash = "04efbb8f961a065d25e195e31f3ca0ae88c94d4d1f514f7f1c7cf1adeb9efa8b"
 
 [[files]]
 file = "config/fancymenu/dragger_metas.json"
@@ -2102,7 +2102,7 @@ hash = "eb7e9906d126543f03c2257ca98efa4b845d1e7479dc8b069a12b194c86debcf"
 
 [[files]]
 file = "config/pneumaticcraft-common.toml"
-hash = "bf8ecfcd2664379ddcd684dcb2863387b8907b0339621e1814219b8d33e95aab"
+hash = "848b6c371f7ac2f890b125cf453ddba56115b2f775610a7b2c957f19e5248b16"
 
 [[files]]
 file = "config/pneumaticcraft/ArmorFeatureStatus.cfg"
