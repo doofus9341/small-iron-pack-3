@@ -1,13 +1,13 @@
 name = "Simple Teleporters Reforged"
-filename = "SimpleTeleportersReforged-1.21-2.0.0.jar"
+filename = "SimpleTeleportersReforged-1.21.1-2.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5ec0593a52d5b0e8ba7067f023e0fbe3d21101bd"
+hash = "6ce575312593817ec719c2208c5f6f92efbb56a9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5575801
+file-id = 7707182
 project-id = 998602

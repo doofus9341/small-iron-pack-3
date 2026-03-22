@@ -20,6 +20,8 @@ removeMinecartWithChest = true
 flexibleMarkerRange = 256
 #Range of Marker Plus. Default: 256, Min: 8, Max: 1048576
 markerPlusRange = 256
+#Whether to start digging from the top of the frame. If false, it starts digging from the bottom of the frame.. Default: false
+digFromMaxY = false
 
 [enableMap]
 	#pump_module Default: true

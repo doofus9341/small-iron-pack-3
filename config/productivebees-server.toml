@@ -73,6 +73,8 @@
 	# Default: 5
 	# Range: -1 ~ 100
 	beeBeeArmorDurabilityPercentageRemainder = 5
+	#Centrifuges will output fluid to any adjacent fluid containers including other centrifuges
+	centrifugeFluidSharing = true
 
 [Bees]
 	#Allow for bee simulation in hives using simulation upgrades. This will stop bees from exiting the hive and instead simulate a trip to flower blocks saving on performance.
@@ -108,6 +110,8 @@
 	enableResinBeeEncasing = true
 	#Force bee simulation in hives.
 	forceBeeSimulation = false
+	#Setting this to false will completely disable bee breeding. This overwrites any bee breeding recipes and selfbreed settings in the bee files.
+	allowBeeBreeding = true
 
 ["Bee attributes"]
 	#Number of ticks between attribute improvement attempts while leashed
@@ -251,3 +255,7 @@
 	# Default: 0.05
 	# Range: 0.0 ~ 1.0
 	samplerChance = 0.05
+	#Chance increase for centrifuge output that is not guaranteed.
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	stabilityChanceIncrease = 0.15

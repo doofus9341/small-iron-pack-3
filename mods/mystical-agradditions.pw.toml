@@ -1,13 +1,13 @@
 name = "Mystical Agradditions"
-filename = "MysticalAgradditions-1.21.1-8.0.10.jar"
+filename = "MysticalAgradditions-1.21.1-8.0.12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7d213dfee620b09195744c2d3736f49bb6a11890"
+hash = "660593fb30024b0a88f60d551b1732042ce88764"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7180792
+file-id = 7397775
 project-id = 256247

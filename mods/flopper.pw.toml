@@ -1,13 +1,13 @@
 name = "Flopper"
-filename = "flopper-1.21.1-neoforge-1.1.8-189.jar"
+filename = "flopper-1.21.1-neoforge-1.1.8-216.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1324ac1c71cb8ac8b2cccea7a6c2998c65cf6ffa"
+hash = "be2512c1dbb13cc56f522b7951d5c7afdb17502f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6864906
+file-id = 7786061
 project-id = 290404

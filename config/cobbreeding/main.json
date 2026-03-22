@@ -15,7 +15,6 @@
   "dittoAndDittoAllowParadox": false,
   "dittoAndDittoAllowUltraBeast": false,
   "dittoAndDittoAllowUndiscovered": false,
-  "customColors": false,
   "allowHoppersToPullFromPastureBlock": true,
   "inheritedFeatures": [
     "bagworm_cloak",
