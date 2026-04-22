@@ -1102,7 +1102,7 @@ hash = "9ddede6cc42a2370eb16af7132d56138ca83357c74b4079b6ed4c885d4b46841"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "983e809415dfe897a8add33a52414e368c5eb91334934ff1e86e3df80c931626"
+hash = "8a21ee223b1ef4d74270dc8f0996cf2321dde1ec64f7c046f0d6d965d4c07b5e"
 
 [[files]]
 file = "config/betterendisland-neoforge-1_21.toml"
