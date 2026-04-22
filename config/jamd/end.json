@@ -38,66 +38,27 @@
       ]
     },
     {
-      "ore_size": 10,
+      "ore_size": 4,
       "discard_on_air_chance": 0.0,
       "modifiers": [
         {
-          "count": 8,
+          "count": 2,
           "type": "minecraft:count"
-        },
-        {
-          "type": "minecraft:in_square"
         },
         {
           "height": {
             "min_inclusive": {
-              "absolute": 2
+              "absolute": 0
             },
             "max_inclusive": {
-              "absolute": 80
+              "absolute": 60
             },
             "type": "minecraft:uniform"
           },
           "type": "minecraft:height_range"
         },
         {
-          "type": "minecraft:biome"
-        }
-      ],
-      "targets": [
-        {
-          "target": {
-            "tag": "minecraft:end_stones",
-            "predicate_type": "minecraft:tag_match"
-          },
-          "state": {
-            "Name": "rftoolsbase:dimensionalshard_end"
-          }
-        }
-      ]
-    },
-    {
-      "ore_size": 8,
-      "discard_on_air_chance": 0.0,
-      "modifiers": [
-        {
-          "count": 12,
-          "type": "minecraft:count"
-        },
-        {
           "type": "minecraft:in_square"
-        },
-        {
-          "height": {
-            "min_inclusive": {
-              "absolute": 10
-            },
-            "max_inclusive": {
-              "absolute": 100
-            },
-            "type": "minecraft:uniform"
-          },
-          "type": "minecraft:height_range"
         },
         {
           "type": "minecraft:biome"
@@ -110,7 +71,10 @@
             "predicate_type": "minecraft:block_match"
           },
           "state": {
-            "Name": "mysticalagradditions:end_prosperity_ore"
+            "Properties": {
+              "facing": "north"
+            },
+            "Name": "productivebees:end_stone_nest"
           }
         }
       ]
@@ -194,27 +158,114 @@
       ]
     },
     {
-      "ore_size": 4,
-      "discard_on_air_chance": 0.0,
+      "ore_size": 5,
+      "discard_on_air_chance": 0.3,
       "modifiers": [
         {
-          "count": 2,
+          "count": 40,
           "type": "minecraft:count"
+        },
+        {
+          "type": "minecraft:in_square"
         },
         {
           "height": {
             "min_inclusive": {
-              "absolute": 0
+              "above_bottom": 10
             },
             "max_inclusive": {
-              "absolute": 60
+              "below_top": 10
             },
             "type": "minecraft:uniform"
           },
           "type": "minecraft:height_range"
         },
         {
+          "type": "minecraft:biome"
+        }
+      ],
+      "targets": [
+        {
+          "target": {
+            "tag": "minecraft:deepslate_ore_replaceables",
+            "predicate_type": "minecraft:tag_match"
+          },
+          "state": {
+            "Name": "oritech:deepslate_platinum_ore"
+          }
+        },
+        {
+          "target": {
+            "block": "minecraft:end_stone",
+            "predicate_type": "minecraft:block_match"
+          },
+          "state": {
+            "Name": "oritech:endstone_platinum_ore"
+          }
+        }
+      ]
+    },
+    {
+      "ore_size": 10,
+      "discard_on_air_chance": 0.0,
+      "modifiers": [
+        {
+          "count": 8,
+          "type": "minecraft:count"
+        },
+        {
           "type": "minecraft:in_square"
+        },
+        {
+          "height": {
+            "min_inclusive": {
+              "absolute": 2
+            },
+            "max_inclusive": {
+              "absolute": 80
+            },
+            "type": "minecraft:uniform"
+          },
+          "type": "minecraft:height_range"
+        },
+        {
+          "type": "minecraft:biome"
+        }
+      ],
+      "targets": [
+        {
+          "target": {
+            "tag": "minecraft:end_stones",
+            "predicate_type": "minecraft:tag_match"
+          },
+          "state": {
+            "Name": "rftoolsbase:dimensionalshard_end"
+          }
+        }
+      ]
+    },
+    {
+      "ore_size": 8,
+      "discard_on_air_chance": 0.0,
+      "modifiers": [
+        {
+          "count": 12,
+          "type": "minecraft:count"
+        },
+        {
+          "type": "minecraft:in_square"
+        },
+        {
+          "height": {
+            "min_inclusive": {
+              "absolute": 10
+            },
+            "max_inclusive": {
+              "absolute": 100
+            },
+            "type": "minecraft:uniform"
+          },
+          "type": "minecraft:height_range"
         },
         {
           "type": "minecraft:biome"
@@ -227,10 +278,7 @@
             "predicate_type": "minecraft:block_match"
           },
           "state": {
-            "Properties": {
-              "facing": "north"
-            },
-            "Name": "productivebees:end_stone_nest"
+            "Name": "mysticalagradditions:end_prosperity_ore"
           }
         }
       ]

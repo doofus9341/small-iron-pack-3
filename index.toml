@@ -1698,15 +1698,15 @@ hash = "91c693bd8c9b6cc551d5ac496794244380dc567ad20c8ee918e8540b4be4e889"
 
 [[files]]
 file = "config/jamd/end.json"
-hash = "09488a4de106cff3b20954b6c0e51a8fb8934602ebc0f5a941a8132ded5181f4"
+hash = "dbc63548d723bc313aa588aa347157cc649d8dba1f1b66b46ec7724af69f8d10"
 
 [[files]]
 file = "config/jamd/mining.json"
-hash = "a9bb73d66ed98df7bee72d6db0b7e38bee3c6aad7af83b18af35b65dbaeb0bc4"
+hash = "2ae8d8c2752264f476d6108f3a40ab28468f564e5aee315f427a068a1f1a915c"
 
 [[files]]
 file = "config/jamd/nether.json"
-hash = "417fe52c8378c8705d82eba9f11271da77bdda185a00a43bf2882f3c7ea4b995"
+hash = "7996f7e554ed39fb332ee44c6048ceea7362221ec3fcd927e4e61da7a81c380b"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
