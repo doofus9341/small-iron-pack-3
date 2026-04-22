@@ -1393,6 +1393,10 @@ file = "config/entityculling.json"
 hash = "5afdc465def80283de2b001cd7e509b6cc3d5e4c682f1dc499f70cb2f521a320"
 
 [[files]]
+file = "config/excessive_utilities-server.toml"
+hash = "cc693a1a2aa15c137775f8e62186fed0a6edfbb931872d3b839255b5e04dc76c"
+
+[[files]]
 file = "config/explorerscompass-common.toml"
 hash = "f1a6a3f1cd5b1e4b29f0dfe2ebef758d906a3912e4c3c642a9baec53814c6a46"
 
@@ -1523,6 +1527,10 @@ hash = "df97d93407a6babe2efd80d6d5a912b0bc5dbbf8de9ccb08be2880f731c30ec1"
 [[files]]
 file = "config/ftbessentials.snbt"
 hash = "3314e9eb2ea52f96cd29933b0dd6e6525b0c9ee51dee68424cf28119adf69ab7"
+
+[[files]]
+file = "config/ftbteams-server.snbt"
+hash = "2ef5e2dca3a653ced3f3981a85a32832fb3716caa5fa05e233f50ab16044a2c4"
 
 [[files]]
 file = "config/ftbultimine-server.snbt"
@@ -1691,6 +1699,10 @@ hash = "f9061c501bf4b222c6d57f0933c946a5ae03ac66ccfe498d48fc094df015239b"
 [[files]]
 file = "config/irons_spellbooks-server.toml"
 hash = "75b2fa2072c3442ff34b86986f42e50cf57eba6c2332f7a9c059f119789879fd"
+
+[[files]]
+file = "config/irregular_implements-server.toml"
+hash = "b513935a361a8118c40646ad47ecb05620e561383072dbe7f31ce2b3b5302ab7"
 
 [[files]]
 file = "config/itemcollectors-common.toml"
@@ -2077,8 +2089,16 @@ file = "config/ok_zoomer/config.toml"
 hash = "12773635f8ee3dc52dcb5cb0a627d339eddedca81a3c766500c8d84dab6bb2da"
 
 [[files]]
+file = "config/oritech-common.toml"
+hash = "6b331bcf4d21330a24fdfd9dbe33eb3102447a448f8602eff29737b9fc7989b8"
+
+[[files]]
 file = "config/oritech-config.json5"
 hash = "f852f9d689e0e244d804524d1eb1961bdb6a3ad9dd303bac4fc61d93263eb4f5"
+
+[[files]]
+file = "config/oritech-startup.toml"
+hash = "a25f0b157d21fa84ffbb75949f427fd95d26fe2e4cc3f4d225a0dec15b9f326a"
 
 [[files]]
 file = "config/pamhc2crops.toml"
@@ -2159,6 +2179,10 @@ hash = "68735172178e3c1d9eca368ab6e46129ea7fb48e181f5b7dc277ebd480c961f1"
 [[files]]
 file = "config/projectvibrantjourneys-common.toml"
 hash = "1e73b5767e809c54b6f5f933c7dbd4ed33553d2069cb016b5135f83f8b86a3b5"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "ffddeae2d87ad8ec0b93d9c949b5187744eebdf1390d1697babf0f5424461a5f"
 
 [[files]]
 file = "config/quarryplus.toml"
@@ -2401,10 +2425,6 @@ file = "config/waterdripsound.json"
 hash = "14c10834e86f2b05dba7fbf16351344dbd73e31f8a2f172a7d2c1122e9aab407"
 
 [[files]]
-file = "config/waveycapes.json"
-hash = "8ba8caf036bac59033157842f7812cf3eca3434a02d2e7e59648214fe42c48fc"
-
-[[files]]
 file = "config/waystones-common.toml"
 hash = "3af12249f1de469dfc1b70933f03432ca2cdeaeea3e24e61116ee7699ebe3a82"
 
@@ -2431,6 +2451,10 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 [[files]]
 file = "config/yungsmenutweaks-neoforge-1_21.toml"
 hash = "f03258dd68fab838e12affe9c56d7a558a808f0803458b657b77acdc84fd4915"
+
+[[files]]
+file = "config/zeta-common.toml"
+hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
 file = "kubejs/assets/compactmachines/lang/en_us.json"
@@ -2531,6 +2555,11 @@ hash = "749c947ef3e1d038863875e00787e23c5fef38d3b0f39451bfb54497b8597717"
 [[files]]
 file = "local/ftbultimine-client.snbt"
 hash = "e426309b95b693eb6b7bb2ee9b9a594324e83fd9a355e5e7267d64009dd292bd"
+
+[[files]]
+file = "mods/aaron.pw.toml"
+hash = "fcfa1ea7f9c15a64980958fa7643a3d555c52929b0c2f9a729ac9d8064a13da2"
+metafile = true
 
 [[files]]
 file = "mods/actually-additions.pw.toml"
@@ -2740,11 +2769,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
-metafile = true
-
-[[files]]
-file = "mods/cloud-glass.pw.toml"
-hash = "4a7a9d23ed6402020581e860f3c0b898797a482f3fb94757583aad0caf0af060"
 metafile = true
 
 [[files]]
@@ -2990,6 +3014,11 @@ metafile = true
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "9db847b1635071f5d318ee4d1afb4396614edde606ee0e3c7cfe35ffc22bc079"
+metafile = true
+
+[[files]]
+file = "mods/excessive-utilities.pw.toml"
+hash = "0d5de9590df0391f702b74980ddd8c6102da8a9c335ba05fd967b71761e8282c"
 metafile = true
 
 [[files]]
@@ -3273,6 +3302,11 @@ hash = "678fa6583298962cb79fac4cde7a631019429f9e0298d3a3af638b632c883d76"
 metafile = true
 
 [[files]]
+file = "mods/irregular-implements.pw.toml"
+hash = "42ee07703a20fe1defa44dd6576be0ac7243f1bc8ce5be6062c321ddbf25185f"
+metafile = true
+
+[[files]]
 file = "mods/item-collectors.pw.toml"
 hash = "39204787792da3c753c868898f8354d4aa8c73897cda78c178af1d9b2e073abb"
 metafile = true
@@ -3374,7 +3408,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
 metafile = true
 
 [[files]]
@@ -3668,6 +3702,11 @@ hash = "804736be3ded2a6f89f44522b88d82636209ed203c234ea34b6d6ffdd9ecee54"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "3b701ee3561dcbcd81d7b73695e515d302d87a0944218c340f5ccc8e1b390152"
+metafile = true
+
+[[files]]
 file = "mods/random-bone-meal-flowers.pw.toml"
 hash = "5c301aeec0580499bcab35494c3a4c5e70a225ab520525a349de62c8919681f7"
 metafile = true
@@ -3675,11 +3714,6 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "7bdd9f530098c1579202d4e7e51f6dff9e6afe560b56770d94b332d9570b1e7f"
-metafile = true
-
-[[files]]
-file = "mods/redstone-pen.pw.toml"
-hash = "89488342571c0250b7a778c4c232f06e727d2f51a3510f1e1c1d31ae07af15ff"
 metafile = true
 
 [[files]]
@@ -3898,11 +3932,6 @@ hash = "c00a6ef6f5e855b3144ad48f5df41d05150c5d11cecd558704f9b827b756300d"
 metafile = true
 
 [[files]]
-file = "mods/wavey-capes.pw.toml"
-hash = "f84ae2e01bc4c7c5531ca9ab045be132ff32df0a572b408efc14f89ef636be01"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "03b1945f985d8f20d077e70eebff66c6b2f000918a6c4f834d9161dbe654cfa4"
 metafile = true
@@ -3995,6 +4024,11 @@ metafile = true
 [[files]]
 file = "mods/zerocore.pw.toml"
 hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "dd9eb796545bbc04a65a67224095336c360b6a7733767283215abc201d0c1ecf"
 metafile = true
 
 [[files]]

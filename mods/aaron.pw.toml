@@ -1,0 +1,13 @@
+name = "Aaron"
+filename = "aaron-1.21.1-1.10.0-build.263.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c5431aa28c20b48f3817987815b924057d0c470"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7946463
+project-id = 1384284

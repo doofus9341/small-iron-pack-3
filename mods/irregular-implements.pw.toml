@@ -1,0 +1,13 @@
+name = "Irregular Implements"
+filename = "irregular-implements-1.21.1-1.10.2-build.232.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d34efce3bf701ff075baeb4f23d4be562fa520f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7883375
+project-id = 1340717
